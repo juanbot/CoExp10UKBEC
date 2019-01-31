@@ -1,0 +1,1097 @@
+"","query.number","significant","p.value","term.size","query.size","overlap.size","recall","precision","term.id","domain","subgraph.number","term.name","relative.depth","intersection","IC"
+"1","darkmagenta",TRUE,0.0208,489,418,32,0.077,0.065,"GO:0055114","BP",1,"oxidation-reduction process",1,NA,5.1043878411869
+"2","darkmagenta",TRUE,0.00494,328,418,26,0.062,0.079,"GO:0006091","BP",1,"generation of precursor metabolites and energy",1,NA,5.96211604385297
+"3","darkmagenta",TRUE,0.0111,261,418,22,0.053,0.084,"GO:0015980","BP",1,"energy derivation by oxidation of organic compounds",2,NA,6.46380918405569
+"4","darkmagenta",TRUE,0.00136,128,418,16,0.038,0.125,"GO:0045333","BP",1,"cellular respiration",3,NA,7.18772802328239
+"5","darkmagenta",TRUE,0.0429,83,418,11,0.026,0.133,"GO:0015992","BP",2,"proton transport",1,NA,7.60894148835869
+"6","darkmagenta",TRUE,0.00306,11021,418,353,0.844,0.032,"GO:0005575","CC",3,"cellular_component",1,NA,0
+"7","darkmagenta",TRUE,2.46e-05,8097,418,286,0.684,0.035,"GO:0043226","CC",3,"organelle",2,NA,0.565605514134331
+"8","darkmagenta",TRUE,1.91e-08,7579,418,283,0.677,0.037,"GO:0043227","CC",3,"membrane-bounded organelle",3,NA,0.734472452582356
+"9","darkmagenta",TRUE,0.00122,9915,418,327,0.782,0.033,"GO:0005623","CC",3,"cell",2,NA,0.275255071864458
+"10","darkmagenta",TRUE,0.00536,3264,418,133,0.318,0.041,"GO:0031974","CC",3,"membrane-enclosed lumen",2,NA,2.11753978628716
+"11","darkmagenta",TRUE,0.00161,9895,418,326,0.78,0.033,"GO:0044464","CC",3,"cell part",2,NA,0.27551579406643
+"12","darkmagenta",TRUE,3.42e-09,8662,418,314,0.751,0.036,"GO:0005622","CC",3,"intracellular",3,NA,0.458202476180666
+"13","darkmagenta",TRUE,5.71e-10,8495,418,312,0.746,0.037,"GO:0044424","CC",3,"intracellular part",4,NA,0.465375469578815
+"14","darkmagenta",TRUE,1.8e-10,6627,418,263,0.629,0.04,"GO:0005737","CC",3,"cytoplasm",5,NA,1.19900315497263
+"15","darkmagenta",TRUE,5.14e-07,5278,418,212,0.507,0.04,"GO:0044444","CC",3,"cytoplasmic part",6,NA,1.60446826308079
+"16","darkmagenta",TRUE,7e-06,7076,418,260,0.622,0.037,"GO:0043229","CC",3,"intracellular organelle",5,NA,0.76882230233395
+"17","darkmagenta",TRUE,2.34e-08,6479,418,252,0.603,0.039,"GO:0043231","CC",3,"intracellular membrane-bounded organelle",6,NA,0.948868868810718
+"18","darkmagenta",TRUE,2.35e-05,882,418,56,0.134,0.063,"GO:0005739","CC",3,"mitochondrion",7,NA,3.29011241294618
+"19","darkmagenta",TRUE,3.2e-07,5353,418,215,0.514,0.04,"GO:0044422","CC",3,"organelle part",2,NA,1.39654167757144
+"20","darkmagenta",TRUE,0.0145,3231,418,130,0.311,0.04,"GO:0043233","CC",3,"organelle lumen",3,NA,2.12773692576892
+"21","darkmagenta",TRUE,6.61e-08,5240,418,214,0.512,0.041,"GO:0044446","CC",3,"intracellular organelle part",3,NA,1.42975381177755
+"22","darkmagenta",TRUE,0.00703,3187,418,130,0.311,0.041,"GO:0070013","CC",3,"intracellular organelle lumen",4,NA,2.12801397245305
+"23","darkmagenta",TRUE,2.09e-05,541,418,41,0.098,0.076,"GO:0044429","CC",3,"mitochondrial part",4,NA,4.26476063082647
+"24","darkmagenta",TRUE,0.00236,356,418,28,0.067,0.079,"GO:0005740","CC",3,"mitochondrial envelope",5,NA,4.61875640370516
+"25","darkmagenta",TRUE,0.00635,1642,418,78,0.187,0.048,"GO:0031090","CC",3,"organelle membrane",3,NA,3.18430912552996
+"26","darkmagenta",TRUE,0.000123,271,418,26,0.062,0.096,"GO:0019866","CC",3,"organelle inner membrane",4,NA,5.17753642059318
+"27","darkmagenta",TRUE,0.00467,327,418,26,0.062,0.08,"GO:0031966","CC",3,"mitochondrial membrane",4,NA,4.75085547333475
+"28","darkmagenta",TRUE,9.12e-05,249,418,25,0.06,0.1,"GO:0005743","CC",3,"mitochondrial inner membrane",5,NA,5.23779561211138
+"29","red",TRUE,0.00794,3451,445,146,0.328,0.042,"GO:0032501","BP",1,"multicellular organismal process",1,NA,1.67871931335938
+"30","red",TRUE,0.00437,3328,445,143,0.321,0.043,"GO:0044707","BP",1,"single-multicellular organism process",2,NA,1.69853206600742
+"31","red",TRUE,0.00513,804,445,49,0.11,0.061,"GO:0003008","BP",1,"system process",3,NA,3.89189115727806
+"32","red",TRUE,0.0164,388,445,29,0.065,0.075,"GO:0050877","BP",1,"neurological system process",4,NA,4.8304180305991
+"33","red",TRUE,2.16e-06,468,445,41,0.092,0.088,"GO:0007186","BP",3,"G-protein coupled receptor signaling pathway",1,NA,4.95302035269143
+"34","red",TRUE,0.00299,48,445,10,0.022,0.208,"GO:0007200","BP",3,"phospholipase C-activating G-protein coupled receptor signaling pathway",2,NA,7.32125941590691
+"35","red",TRUE,1.11e-05,123,445,19,0.043,0.154,"GO:0007187","BP",3,"G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",2,NA,6.55911936386002
+"36","red",TRUE,0.00116,104,445,15,0.034,0.144,"GO:0007188","BP",3,"adenylate cyclase-modulating G-protein coupled receptor signaling pathway",3,NA,6.5930209155357
+"37","red",TRUE,8.67e-06,780,445,55,0.124,0.071,"GO:0007267","BP",5,"cell-cell signaling",1,NA,4.51789903500038
+"38","red",TRUE,7.19e-05,488,445,39,0.088,0.08,"GO:0007268","BP",5,"synaptic transmission",2,NA,5.246292154622
+"39","red",TRUE,0.04,2845,445,122,0.274,0.043,"GO:0071944","CC",6,"cell periphery",1,NA,2.51128334816943
+"40","red",TRUE,0.00988,1500,445,76,0.171,0.051,"GO:0044459","CC",2,"plasma membrane part",1,NA,3.2682105300278
+"41","red",TRUE,0.00234,1625,445,83,0.187,0.051,"GO:0031224","CC",2,"intrinsic component of membrane",1,NA,3.57986334973867
+"42","red",TRUE,0.00207,1568,445,81,0.182,0.052,"GO:0016021","CC",2,"integral component of membrane",2,NA,3.65097172867844
+"43","red",TRUE,0.000315,1078,445,64,0.144,0.059,"GO:0031226","CC",2,"intrinsic component of plasma membrane",1,NA,4.25309188699209
+"44","red",TRUE,0.000358,1034,445,62,0.139,0.06,"GO:0005887","CC",2,"integral component of plasma membrane",1,NA,4.3556206334774
+"45","red",TRUE,0.0438,563,445,36,0.081,0.064,"GO:0038023","MF",4,"signaling receptor activity",1,NA,4.13181823435752
+"46","red",TRUE,0.0144,513,445,35,0.079,0.068,"GO:0004888","MF",4,"transmembrane signaling receptor activity",2,NA,4.27275457498862
+"47","red",TRUE,0.0144,229,445,21,0.047,0.092,"GO:0004930","MF",4,"G-protein coupled receptor activity",3,NA,4.99887177478613
+"48","violet",TRUE,0.0367,9,288,4,0.014,0.444,"GO:0071436","BP",1,"sodium ion export",1,NA,8.08851456862058
+"49","darkturquoise",TRUE,3.48e-05,7129,477,291,0.61,0.041,"GO:0008152","BP",1,"metabolic process",1,NA,1.09105922272488
+"50","darkturquoise",TRUE,1.26e-05,6333,477,267,0.56,0.042,"GO:0044238","BP",1,"primary metabolic process",2,NA,1.35036207402462
+"51","darkturquoise",TRUE,6.86e-07,3712,477,181,0.379,0.049,"GO:0009058","BP",1,"biosynthetic process",2,NA,2.21921765548681
+"52","darkturquoise",TRUE,3.43e-06,4170,477,195,0.409,0.047,"GO:0006807","BP",1,"nitrogen compound metabolic process",2,NA,2.03896255219888
+"53","darkturquoise",TRUE,4.77e-06,6615,477,278,0.583,0.042,"GO:0071704","BP",1,"organic substance metabolic process",2,NA,1.24542089527368
+"54","darkturquoise",TRUE,1.72e-07,5543,477,248,0.52,0.045,"GO:0043170","BP",1,"macromolecule metabolic process",3,NA,1.42116638675389
+"55","darkturquoise",TRUE,3.8e-07,3153,477,161,0.338,0.051,"GO:0010467","BP",1,"gene expression",4,NA,2.31038605491273
+"56","darkturquoise",TRUE,8.89e-07,3669,477,179,0.375,0.049,"GO:1901576","BP",1,"organic substance biosynthetic process",3,NA,2.23388356353288
+"57","darkturquoise",TRUE,8.49e-10,3006,477,164,0.344,0.055,"GO:0009059","BP",1,"macromolecule biosynthetic process",4,NA,2.39245414005829
+"58","darkturquoise",TRUE,1.62e-07,3597,477,179,0.375,0.05,"GO:1901360","BP",1,"organic cyclic compound metabolic process",3,NA,2.09015079905233
+"59","darkturquoise",TRUE,2.84e-07,2499,477,136,0.285,0.054,"GO:1901362","BP",1,"organic cyclic compound biosynthetic process",4,NA,2.53913921692678
+"60","darkturquoise",TRUE,9.52e-07,6529,477,278,0.583,0.043,"GO:0044237","BP",1,"cellular metabolic process",1,NA,1.25366088916061
+"61","darkturquoise",TRUE,1.33e-09,5206,477,244,0.512,0.047,"GO:0044260","BP",1,"cellular macromolecule metabolic process",2,NA,1.54792866847206
+"62","darkturquoise",TRUE,3.87e-08,3459,477,176,0.369,0.051,"GO:0006725","BP",1,"cellular aromatic compound metabolic process",2,NA,2.12790581833425
+"63","darkturquoise",TRUE,1.81e-08,3456,477,177,0.371,0.051,"GO:0046483","BP",1,"heterocycle metabolic process",2,NA,2.13148221793408
+"64","darkturquoise",TRUE,5.02e-07,3944,477,190,0.398,0.048,"GO:0034641","BP",1,"cellular nitrogen compound metabolic process",2,NA,2.08881479350958
+"65","darkturquoise",TRUE,4.44e-09,3350,477,175,0.367,0.052,"GO:0006139","BP",1,"nucleobase-containing compound metabolic process",3,NA,2.15158743877777
+"66","darkturquoise",TRUE,9.02e-10,2957,477,162,0.34,0.055,"GO:0090304","BP",1,"nucleic acid metabolic process",4,NA,2.22597664775037
+"67","darkturquoise",TRUE,2.96e-08,2646,477,145,0.304,0.055,"GO:0016070","BP",1,"RNA metabolic process",5,NA,2.43845749332054
+"68","darkturquoise",TRUE,1.51e-07,3594,477,179,0.375,0.05,"GO:0044249","BP",1,"cellular biosynthetic process",2,NA,2.26002154210205
+"69","darkturquoise",TRUE,6.93e-08,2425,477,135,0.283,0.056,"GO:0018130","BP",1,"heterocycle biosynthetic process",3,NA,2.56828517800758
+"70","darkturquoise",TRUE,6.93e-08,2425,477,135,0.283,0.056,"GO:0019438","BP",1,"aromatic compound biosynthetic process",3,NA,2.56674600577821
+"71","darkturquoise",TRUE,3.48e-07,2786,477,147,0.308,0.053,"GO:0044271","BP",1,"cellular nitrogen compound biosynthetic process",3,NA,2.54664788713506
+"72","darkturquoise",TRUE,4.68e-08,2387,477,134,0.281,0.056,"GO:0034654","BP",1,"nucleobase-containing compound biosynthetic process",4,NA,2.57850356696626
+"73","darkturquoise",TRUE,8.25e-08,2136,477,123,0.258,0.058,"GO:0032774","BP",1,"RNA biosynthetic process",5,NA,2.64709635843187
+"74","darkturquoise",TRUE,3.53e-08,2061,477,121,0.254,0.059,"GO:0097659","BP",1,"nucleic acid-templated transcription",6,NA,2.66288704433819
+"75","darkturquoise",TRUE,4.65e-10,2884,477,160,0.335,0.055,"GO:0034645","BP",1,"cellular macromolecule biosynthetic process",3,NA,2.45868228763876
+"76","darkturquoise",TRUE,8.69e-08,2041,477,119,0.249,0.058,"GO:0006351","BP",1,"transcription, DNA-templated",4,NA,2.670706224071
+"77","darkturquoise",TRUE,0.000481,3918,477,177,0.371,0.045,"GO:0019222","BP",1,"regulation of metabolic process",1,NA,1.68277765754713
+"78","darkturquoise",TRUE,2e-07,2263,477,127,0.266,0.056,"GO:0009889","BP",1,"regulation of biosynthetic process",2,NA,2.48299534775144
+"79","darkturquoise",TRUE,9.56e-05,3287,477,157,0.329,0.048,"GO:0060255","BP",1,"regulation of macromolecule metabolic process",2,NA,1.93529099605339
+"80","darkturquoise",TRUE,2.53e-09,2125,477,127,0.266,0.06,"GO:0010556","BP",1,"regulation of macromolecule biosynthetic process",3,NA,2.54966721310032
+"81","darkturquoise",TRUE,4.24e-06,2271,477,123,0.258,0.054,"GO:0010468","BP",1,"regulation of gene expression",3,NA,2.41889893281498
+"82","darkturquoise",TRUE,0.000322,3265,477,154,0.323,0.047,"GO:0080090","BP",1,"regulation of primary metabolic process",2,NA,2.00051681368826
+"83","darkturquoise",TRUE,2.66e-06,2329,477,126,0.264,0.054,"GO:0051171","BP",1,"regulation of nitrogen compound metabolic process",2,NA,2.52252162385024
+"84","darkturquoise",TRUE,0.000394,3411,477,159,0.333,0.047,"GO:0031323","BP",1,"regulation of cellular metabolic process",2,NA,1.89332455605549
+"85","darkturquoise",TRUE,1.92e-07,2237,477,126,0.264,0.056,"GO:0031326","BP",1,"regulation of cellular biosynthetic process",3,NA,2.50965594931063
+"86","darkturquoise",TRUE,4.1e-09,2044,477,123,0.258,0.06,"GO:2000112","BP",1,"regulation of cellular macromolecule biosynthetic process",4,NA,2.61786123316354
+"87","darkturquoise",TRUE,9.87e-07,2145,477,120,0.252,0.056,"GO:0019219","BP",1,"regulation of nucleobase-containing compound metabolic process",3,NA,2.54363765006364
+"88","darkturquoise",TRUE,6.56e-07,1961,477,113,0.237,0.058,"GO:0051252","BP",1,"regulation of RNA metabolic process",4,NA,2.64709635843187
+"89","darkturquoise",TRUE,1.06e-07,1880,477,112,0.235,0.06,"GO:2001141","BP",1,"regulation of RNA biosynthetic process",5,NA,2.70401950583149
+"90","darkturquoise",TRUE,1.2e-07,1860,477,111,0.233,0.06,"GO:1903506","BP",1,"regulation of nucleic acid-templated transcription",6,NA,2.71930869254579
+"91","darkturquoise",TRUE,2.34e-07,1833,477,109,0.229,0.059,"GO:0006355","BP",1,"regulation of transcription, DNA-templated",7,NA,2.72722240291115
+"92","darkturquoise",TRUE,1.56e-05,642,477,50,0.105,0.078,"GO:0051276","BP",5,"chromosome organization",1,NA,3.74271313812018
+"93","darkturquoise",TRUE,0.0213,450,477,33,0.069,0.073,"GO:0006325","BP",5,"chromatin organization",1,NA,4.04411468291474
+"94","darkturquoise",TRUE,0.0464,366,477,28,0.059,0.077,"GO:0016568","BP",5,"chromatin modification",2,NA,4.29909388528477
+"95","darkturquoise",TRUE,1.57e-06,3264,477,163,0.342,0.05,"GO:0031974","CC",3,"membrane-enclosed lumen",1,NA,2.11753978628716
+"96","darkturquoise",TRUE,0.000186,5353,477,229,0.48,0.043,"GO:0044422","CC",3,"organelle part",1,NA,1.39654167757144
+"97","darkturquoise",TRUE,4.71e-06,3231,477,160,0.335,0.05,"GO:0043233","CC",3,"organelle lumen",2,NA,2.12773692576892
+"98","darkturquoise",TRUE,0.0303,8495,477,320,0.671,0.038,"GO:0044424","CC",3,"intracellular part",1,NA,0.465375469578815
+"99","darkturquoise",TRUE,0.00012,5240,477,226,0.474,0.043,"GO:0044446","CC",3,"intracellular organelle part",2,NA,1.42975381177755
+"100","darkturquoise",TRUE,1.67e-06,3187,477,160,0.335,0.05,"GO:0070013","CC",3,"intracellular organelle lumen",3,NA,2.12801397245305
+"101","darkturquoise",TRUE,0.0242,6479,477,256,0.537,0.04,"GO:0043231","CC",3,"intracellular membrane-bounded organelle",1,NA,0.948868868810718
+"102","darkturquoise",TRUE,1.72e-07,4007,477,194,0.407,0.048,"GO:0005634","CC",3,"nucleus",2,NA,1.45008311116636
+"103","darkturquoise",TRUE,2.51e-08,2920,477,156,0.327,0.053,"GO:0044428","CC",3,"nuclear part",3,NA,1.96995217652905
+"104","darkturquoise",TRUE,4.41e-07,2718,477,144,0.302,0.053,"GO:0031981","CC",3,"nuclear lumen",4,NA,2.17539200032436
+"105","darkturquoise",TRUE,3.05e-06,2334,477,126,0.264,0.054,"GO:0005654","CC",3,"nucleoplasm",4,NA,2.53472674135937
+"106","darkturquoise",TRUE,0.000268,702,477,50,0.105,0.071,"GO:0001071","MF",4,"nucleic acid binding transcription factor activity",1,NA,3.87815913911736
+"107","darkturquoise",TRUE,0.000268,702,477,50,0.105,0.071,"GO:0003700","MF",4,"transcription factor activity, sequence-specific DNA binding",2,NA,3.88363860488198
+"108","darkturquoise",TRUE,0.000106,2320,477,120,0.252,0.052,"GO:1901363","MF",2,"heterocyclic compound binding",1,NA,2.0671567429894
+"109","darkturquoise",TRUE,0.000341,2369,477,120,0.252,0.051,"GO:0097159","MF",2,"organic cyclic compound binding",1,NA,2.04856939564928
+"110","darkturquoise",TRUE,5.11e-07,1881,477,110,0.231,0.058,"GO:0003676","MF",2,"nucleic acid binding",2,NA,2.22908025716741
+"111","darkturquoise",TRUE,0.00119,1139,477,68,0.143,0.06,"GO:0003723","MF",2,"RNA binding",3,NA,2.84477372826373
+"112","darkturquoise",TRUE,0.00552,980,477,59,0.124,0.06,"GO:0044822","MF",2,"poly(A) RNA binding",4,NA,3.10286973300159
+"113","turquoise",TRUE,0.000357,200,1369,43,0.031,0.215,"GO:1903034","BP",1,"regulation of response to wounding",1,NA,5.3353439322379
+"114","turquoise",TRUE,0.000234,246,1369,50,0.037,0.203,"GO:0051606","BP",3,"detection of stimulus",1,NA,5.93496505478702
+"115","turquoise",TRUE,0.0182,85,1369,22,0.016,0.259,"GO:0050906","BP",3,"detection of stimulus involved in sensory perception",2,NA,6.66447987951784
+"116","turquoise",TRUE,0.00423,1500,1369,192,0.14,0.128,"GO:0044459","CC",4,"plasma membrane part",1,NA,3.2682105300278
+"117","turquoise",TRUE,0.00496,1625,1369,205,0.15,0.126,"GO:0031224","CC",4,"intrinsic component of membrane",1,NA,3.57986334973867
+"118","turquoise",TRUE,0.00478,1568,1369,199,0.145,0.127,"GO:0016021","CC",4,"integral component of membrane",2,NA,3.65097172867844
+"119","turquoise",TRUE,0.000336,1078,1369,151,0.11,0.14,"GO:0031226","CC",4,"intrinsic component of plasma membrane",1,NA,4.25309188699209
+"120","turquoise",TRUE,0.000339,1034,1369,146,0.107,0.141,"GO:0005887","CC",4,"integral component of plasma membrane",1,NA,4.3556206334774
+"121","turquoise",TRUE,0.00747,709,1369,103,0.075,0.145,"GO:0005615","CC",6,"extracellular space",1,NA,3.52349420192233
+"122","turquoise",TRUE,0.0386,8,1369,6,0.004,0.75,"GO:0045095","CC",2,"keratin filament",1,NA,7.92130470429747
+"123","turquoise",TRUE,0.0128,513,1369,79,0.058,0.154,"GO:0004888","MF",5,"transmembrane signaling receptor activity",1,NA,4.27275457498862
+"124","midnightblue",TRUE,0.0115,780,368,41,0.111,0.053,"GO:0007267","BP",1,"cell-cell signaling",1,NA,4.51789903500038
+"125","midnightblue",TRUE,0.00409,488,368,31,0.084,0.064,"GO:0007268","BP",1,"synaptic transmission",2,NA,5.246292154622
+"126","midnightblue",TRUE,0.0462,130,368,13,0.035,0.1,"GO:0022898","BP",3,"regulation of transmembrane transporter activity",1,NA,5.52949994667886
+"127","midnightblue",TRUE,0.0425,129,368,13,0.035,0.101,"GO:0032412","BP",3,"regulation of ion transmembrane transporter activity",1,NA,5.54751845218154
+"128","midnightblue",TRUE,0.0153,279,368,21,0.057,0.075,"GO:0045202","CC",2,"synapse",1,NA,4.91652259522356
+"129","skyblue",TRUE,0.0159,4170,356,139,0.39,0.033,"GO:0006807","BP",1,"nitrogen compound metabolic process",1,NA,2.03896255219888
+"130","skyblue",TRUE,0.000433,3597,356,130,0.365,0.036,"GO:1901360","BP",1,"organic cyclic compound metabolic process",1,NA,2.09015079905233
+"131","skyblue",TRUE,0.0378,2237,356,84,0.236,0.038,"GO:0031326","BP",1,"regulation of cellular biosynthetic process",1,NA,2.50965594931063
+"132","skyblue",TRUE,0.00509,2125,356,84,0.236,0.04,"GO:0010556","BP",1,"regulation of macromolecule biosynthetic process",1,NA,2.54966721310032
+"133","skyblue",TRUE,0.00742,2044,356,81,0.228,0.04,"GO:2000112","BP",1,"regulation of cellular macromolecule biosynthetic process",2,NA,2.61786123316354
+"134","skyblue",TRUE,3.66e-05,3456,356,130,0.365,0.038,"GO:0046483","BP",1,"heterocycle metabolic process",1,NA,2.13148221793408
+"135","skyblue",TRUE,4.93e-05,3153,356,121,0.34,0.038,"GO:0010467","BP",1,"gene expression",1,NA,2.31038605491273
+"136","skyblue",TRUE,7.41e-05,3459,356,129,0.362,0.037,"GO:0006725","BP",1,"cellular aromatic compound metabolic process",1,NA,2.12790581833425
+"137","skyblue",TRUE,0.00181,3944,356,137,0.385,0.035,"GO:0034641","BP",1,"cellular nitrogen compound metabolic process",1,NA,2.08881479350958
+"138","skyblue",TRUE,0.00949,2329,356,89,0.25,0.038,"GO:0051171","BP",1,"regulation of nitrogen compound metabolic process",1,NA,2.52252162385024
+"139","skyblue",TRUE,0.00619,2271,356,88,0.247,0.039,"GO:0010468","BP",1,"regulation of gene expression",1,NA,2.41889893281498
+"140","skyblue",TRUE,9.66e-06,3350,356,129,0.362,0.039,"GO:0006139","BP",1,"nucleobase-containing compound metabolic process",1,NA,2.15158743877777
+"141","skyblue",TRUE,1.97e-07,2957,356,123,0.346,0.042,"GO:0090304","BP",1,"nucleic acid metabolic process",2,NA,2.22597664775037
+"142","skyblue",TRUE,3.52e-07,2646,356,113,0.317,0.043,"GO:0016070","BP",1,"RNA metabolic process",3,NA,2.43845749332054
+"143","skyblue",TRUE,0.0282,397,356,25,0.07,0.063,"GO:0016071","BP",1,"mRNA metabolic process",4,NA,4.86963874375238
+"144","skyblue",TRUE,0.007,491,356,30,0.084,0.061,"GO:0006396","BP",1,"RNA processing",4,NA,4.79839200387969
+"145","skyblue",TRUE,0.00105,2145,356,87,0.244,0.041,"GO:0019219","BP",1,"regulation of nucleobase-containing compound metabolic process",2,NA,2.54363765006364
+"146","skyblue",TRUE,0.0033,2136,356,85,0.239,0.04,"GO:0032774","BP",1,"RNA biosynthetic process",1,NA,2.64709635843187
+"147","skyblue",TRUE,0.00541,2061,356,82,0.23,0.04,"GO:0097659","BP",1,"nucleic acid-templated transcription",2,NA,2.66288704433819
+"148","skyblue",TRUE,0.0132,2041,356,80,0.225,0.039,"GO:0006351","BP",1,"transcription, DNA-templated",3,NA,2.670706224071
+"149","skyblue",TRUE,0.000167,1961,356,84,0.236,0.043,"GO:0051252","BP",1,"regulation of RNA metabolic process",1,NA,2.64709635843187
+"150","skyblue",TRUE,0.000498,1880,356,80,0.225,0.043,"GO:2001141","BP",1,"regulation of RNA biosynthetic process",2,NA,2.70401950583149
+"151","skyblue",TRUE,0.000656,1860,356,79,0.222,0.042,"GO:1903506","BP",1,"regulation of nucleic acid-templated transcription",3,NA,2.71930869254579
+"152","skyblue",TRUE,0.00301,1833,356,76,0.213,0.041,"GO:0006355","BP",1,"regulation of transcription, DNA-templated",4,NA,2.72722240291115
+"153","skyblue",TRUE,0.0377,3231,356,112,0.315,0.035,"GO:0043233","CC",2,"organelle lumen",1,NA,2.12773692576892
+"154","skyblue",TRUE,0.0199,3187,356,112,0.315,0.035,"GO:0070013","CC",2,"intracellular organelle lumen",2,NA,2.12801397245305
+"155","skyblue",TRUE,5.85e-06,4007,356,148,0.416,0.037,"GO:0005634","CC",2,"nucleus",1,NA,1.45008311116636
+"156","skyblue",TRUE,6.13e-05,2920,356,114,0.32,0.039,"GO:0044428","CC",2,"nuclear part",2,NA,1.96995217652905
+"157","skyblue",TRUE,3.36e-05,2718,356,109,0.306,0.04,"GO:0031981","CC",2,"nuclear lumen",3,NA,2.17539200032436
+"158","skyblue",TRUE,0.000105,2334,356,96,0.27,0.041,"GO:0005654","CC",2,"nucleoplasm",3,NA,2.53472674135937
+"159","skyblue",TRUE,0.00051,1881,356,80,0.225,0.043,"GO:0003676","MF",3,"nucleic acid binding",1,NA,2.22908025716741
+"160","skyblue",TRUE,0.00128,1139,356,55,0.154,0.048,"GO:0003723","MF",3,"RNA binding",2,NA,2.84477372826373
+"161","skyblue",TRUE,0.000892,980,356,50,0.14,0.051,"GO:0044822","MF",3,"poly(A) RNA binding",3,NA,3.10286973300159
+"162","blue",TRUE,0.0025,243,1081,40,0.037,0.165,"GO:0007600","BP",1,"sensory perception",1,NA,5.46607812024136
+"163","blue",TRUE,0.0444,97,1081,20,0.019,0.206,"GO:0007606","BP",1,"sensory perception of chemical stimulus",2,NA,6.64613074084965
+"164","blue",TRUE,0.0154,69,1081,17,0.016,0.246,"GO:0050907","BP",1,"detection of chemical stimulus involved in sensory perception",1,NA,7.0981158645927
+"165","black",TRUE,0.00829,1945,465,96,0.206,0.049,"GO:0051641","BP",5,"cellular localization",1,NA,2.8819751659645
+"166","black",TRUE,0.0019,1702,465,89,0.191,0.052,"GO:0051649","BP",5,"establishment of localization in cell",1,NA,3.13431396841229
+"167","black",TRUE,0.000197,1254,465,74,0.159,0.059,"GO:0046907","BP",5,"intracellular transport",2,NA,3.57175533997654
+"168","black",TRUE,0.000161,1131,465,69,0.148,0.061,"GO:1902582","BP",5,"single-organism intracellular transport",3,NA,3.70264915763953
+"169","black",TRUE,0.0258,445,465,32,0.069,0.072,"GO:0043604","BP",6,"amide biosynthetic process",1,NA,7.04254601343789
+"170","black",TRUE,0.00148,3463,465,155,0.333,0.045,"GO:0019538","BP",6,"protein metabolic process",1,NA,2.18252411918334
+"171","black",TRUE,0.000117,3194,465,150,0.323,0.047,"GO:0044267","BP",6,"cellular protein metabolic process",1,NA,2.30350665404179
+"172","black",TRUE,0.0259,487,465,34,0.073,0.07,"GO:0006518","BP",6,"peptide metabolic process",1,NA,6.2226471272388
+"173","black",TRUE,0.00612,415,465,32,0.069,0.077,"GO:0043043","BP",6,"peptide biosynthetic process",2,NA,8.08851456862058
+"174","black",TRUE,0.00279,400,465,32,0.069,0.08,"GO:0006412","BP",6,"translation",1,NA,5.22411829712768
+"175","black",TRUE,0.0413,134,465,15,0.032,0.112,"GO:0006415","BP",6,"translational termination",2,NA,9.26716956496223
+"176","black",TRUE,0.0106,200,465,20,0.043,0.1,"GO:0006413","BP",6,"translational initiation",1,NA,6.41935742148486
+"177","black",TRUE,0.0472,76,465,11,0.024,0.145,"GO:0070124","BP",6,"mitochondrial translational initiation",1,NA,9.96031674552217
+"178","black",TRUE,0.00583,3912,465,168,0.361,0.043,"GO:0071840","BP",4,"cellular component organization or biogenesis",1,NA,1.96957055877488
+"179","black",TRUE,0.0346,3851,465,162,0.348,0.042,"GO:0016043","BP",4,"cellular component organization",1,NA,1.9854398449633
+"180","black",TRUE,0.0183,1541,465,79,0.17,0.051,"GO:0043933","BP",4,"macromolecular complex subunit organization",2,NA,3.11496892666865
+"181","black",TRUE,0.000144,2317,465,117,0.252,0.05,"GO:0006996","BP",4,"organelle organization",2,NA,2.57446566739696
+"182","black",TRUE,0.000191,507,465,40,0.086,0.079,"GO:0007005","BP",4,"mitochondrion organization",3,NA,4.32374302055942
+"183","black",TRUE,0.00251,3577,465,158,0.34,0.044,"GO:0044710","BP",1,"single-organism metabolic process",1,NA,2.28779154230712
+"184","black",TRUE,0.0267,9915,465,355,0.763,0.036,"GO:0005623","CC",3,"cell",1,NA,0.275255071864458
+"185","black",TRUE,0.00384,8097,465,305,0.656,0.038,"GO:0043226","CC",3,"organelle",1,NA,0.565605514134331
+"186","black",TRUE,0.000583,7579,465,293,0.63,0.039,"GO:0043227","CC",3,"membrane-bounded organelle",2,NA,0.734472452582356
+"187","black",TRUE,0.0203,9895,465,355,0.763,0.036,"GO:0044464","CC",3,"cell part",1,NA,0.27551579406643
+"188","black",TRUE,3.49e-06,8662,465,335,0.72,0.039,"GO:0005622","CC",3,"intracellular",2,NA,0.458202476180666
+"189","black",TRUE,3.65e-06,8495,465,330,0.71,0.039,"GO:0044424","CC",3,"intracellular part",3,NA,0.465375469578815
+"190","black",TRUE,2.82e-07,6627,465,277,0.596,0.042,"GO:0005737","CC",3,"cytoplasm",4,NA,1.19900315497263
+"191","black",TRUE,0.000142,5278,465,222,0.477,0.042,"GO:0044444","CC",3,"cytoplasmic part",5,NA,1.60446826308079
+"192","black",TRUE,5.86e-06,7076,465,286,0.615,0.04,"GO:0043229","CC",3,"intracellular organelle",4,NA,0.76882230233395
+"193","black",TRUE,1.1e-05,6479,465,266,0.572,0.041,"GO:0043231","CC",3,"intracellular membrane-bounded organelle",5,NA,0.948868868810718
+"194","black",TRUE,6.79e-05,882,465,59,0.127,0.067,"GO:0005739","CC",3,"mitochondrion",6,NA,3.29011241294618
+"195","black",TRUE,0.000817,5353,465,221,0.475,0.041,"GO:0044422","CC",3,"organelle part",1,NA,1.39654167757144
+"196","black",TRUE,0.000343,5240,465,219,0.471,0.042,"GO:0044446","CC",3,"intracellular organelle part",2,NA,1.42975381177755
+"197","black",TRUE,0.00039,541,465,41,0.088,0.076,"GO:0044429","CC",3,"mitochondrial part",3,NA,4.26476063082647
+"198","black",TRUE,0.0175,356,465,28,0.06,0.079,"GO:0005740","CC",3,"mitochondrial envelope",4,NA,4.61875640370516
+"199","black",TRUE,9.99e-05,1642,465,91,0.196,0.055,"GO:0031090","CC",3,"organelle membrane",2,NA,3.18430912552996
+"200","black",TRUE,0.0331,271,465,23,0.049,0.085,"GO:0019866","CC",3,"organelle inner membrane",3,NA,5.17753642059318
+"201","black",TRUE,0.0104,327,465,27,0.058,0.083,"GO:0031966","CC",3,"mitochondrial membrane",3,NA,4.75085547333475
+"202","black",TRUE,0.00823,249,465,23,0.049,0.092,"GO:0005743","CC",3,"mitochondrial inner membrane",4,NA,5.23779561211138
+"203","black",TRUE,0.0109,2930,465,132,0.284,0.045,"GO:0032991","CC",2,"macromolecular complex",1,NA,1.98185141259867
+"204","black",TRUE,0.00922,700,465,45,0.097,0.064,"GO:1902494","CC",7,"catalytic complex",1,NA,3.66504745691262
+"205","paleturquoise",TRUE,0.0169,551,491,39,0.079,0.071,"GO:0048646","BP",2,"anatomical structure formation involved in morphogenesis",1,NA,4.05223380735324
+"206","paleturquoise",TRUE,0.00305,159,491,19,0.039,0.119,"GO:0031012","CC",1,"extracellular matrix",1,NA,4.75851834608031
+"207","paleturquoise",TRUE,0.00189,112,491,16,0.033,0.143,"GO:0005578","CC",1,"proteinaceous extracellular matrix",1,NA,5.96249115040625
+"208","magenta",TRUE,0.0118,591,317,31,0.098,0.052,"GO:0048666","BP",5,"neuron development",1,NA,4.45498520958981
+"209","magenta",TRUE,0.00322,555,317,31,0.098,0.056,"GO:0031175","BP",5,"neuron projection development",1,NA,4.6013747571577
+"210","magenta",TRUE,0.0143,397,317,24,0.076,0.06,"GO:0061564","BP",5,"axon development",2,NA,5.57205956109765
+"211","magenta",TRUE,0.0147,425,317,25,0.079,0.059,"GO:0048667","BP",5,"cell morphogenesis involved in neuron differentiation",1,NA,5.3159258463808
+"212","magenta",TRUE,0.0059,458,317,27,0.085,0.059,"GO:0048812","BP",5,"neuron projection morphogenesis",1,NA,5.15220571553739
+"213","magenta",TRUE,0.0309,388,317,23,0.073,0.059,"GO:0007409","BP",5,"axonogenesis",2,NA,5.69763686848086
+"214","magenta",TRUE,0.000762,86,317,12,0.038,0.14,"GO:0097479","BP",1,"synaptic vesicle localization",1,NA,6.68317201252999
+"215","magenta",TRUE,0.000585,84,317,12,0.038,0.143,"GO:0097480","BP",1,"establishment of synaptic vesicle localization",2,NA,6.76164362797149
+"216","magenta",TRUE,0.00417,3810,317,120,0.379,0.031,"GO:0023052","BP",1,"signaling",1,NA,2.12889798033647
+"217","magenta",TRUE,0.004,3807,317,120,0.379,0.032,"GO:0044700","BP",1,"single organism signaling",1,NA,2.12969241930576
+"218","magenta",TRUE,0.0039,137,317,14,0.044,0.102,"GO:0001505","BP",1,"regulation of neurotransmitter levels",1,NA,6.5930209155357
+"219","magenta",TRUE,1.85e-06,76,317,14,0.044,0.184,"GO:0050803","BP",1,"regulation of synapse structure or activity",1,NA,6.93989185937781
+"220","magenta",TRUE,0.000521,3957,317,127,0.401,0.032,"GO:0007154","BP",1,"cell communication",1,NA,2.11040807514015
+"221","magenta",TRUE,1.15e-11,780,317,55,0.174,0.071,"GO:0007267","BP",1,"cell-cell signaling",2,NA,4.51789903500038
+"222","magenta",TRUE,0.00198,257,317,20,0.063,0.078,"GO:0023061","BP",1,"signal release",3,NA,5.44945723900532
+"223","magenta",TRUE,2.99e-16,488,317,49,0.155,0.1,"GO:0007268","BP",1,"synaptic transmission",3,NA,5.246292154622
+"224","magenta",TRUE,0.0128,131,317,13,0.041,0.099,"GO:0006836","BP",1,"neurotransmitter transport",1,NA,6.72163829335779
+"225","magenta",TRUE,0.00216,112,317,13,0.041,0.116,"GO:0007269","BP",1,"neurotransmitter secretion",2,NA,7.04254601343789
+"226","magenta",TRUE,3.89e-05,111,317,15,0.047,0.135,"GO:0050804","BP",1,"modulation of synaptic transmission",1,NA,5.85767338048538
+"227","magenta",TRUE,7.79e-05,45,317,10,0.032,0.222,"GO:0048167","BP",1,"regulation of synaptic plasticity",2,NA,6.76164362797149
+"228","magenta",TRUE,0.0302,37,317,7,0.022,0.189,"GO:0050806","BP",1,"positive regulation of synaptic transmission",2,NA,7.06994498762601
+"229","magenta",TRUE,0.0408,16,317,5,0.016,0.312,"GO:2000463","BP",1,"positive regulation of excitatory postsynaptic potential",3,NA,7.88087520384234
+"230","magenta",TRUE,0.000585,84,317,12,0.038,0.143,"GO:0048489","BP",1,"synaptic vesicle transport",1,NA,6.76164362797149
+"231","magenta",TRUE,0.00822,57,317,9,0.028,0.158,"GO:0016079","BP",1,"synaptic vesicle exocytosis",1,NA,7.8202505820259
+"232","magenta",TRUE,0.0395,237,317,17,0.054,0.072,"GO:0042391","BP",6,"regulation of membrane potential",1,NA,4.98703723796968
+"233","magenta",TRUE,0.0372,2908,317,94,0.297,0.032,"GO:0051234","BP",8,"establishment of localization",1,NA,2.40912987822602
+"234","magenta",TRUE,0.0486,2847,317,92,0.29,0.032,"GO:0006810","BP",8,"transport",2,NA,2.45785435879334
+"235","magenta",TRUE,0.00822,57,317,9,0.028,0.158,"GO:0007215","BP",15,"glutamate receptor signaling pathway",1,NA,6.61041265824757
+"236","magenta",TRUE,0.00727,88,317,11,0.035,0.125,"GO:0050808","BP",16,"synapse organization",1,NA,5.99002483197005
+"237","magenta",TRUE,4.05e-05,1119,317,54,0.17,0.048,"GO:0007399","BP",13,"nervous system development",1,NA,3.3992860796256
+"238","magenta",TRUE,0.032,777,317,36,0.114,0.046,"GO:0022008","BP",13,"neurogenesis",2,NA,3.90353273229355
+"239","magenta",TRUE,0.00313,27,317,7,0.022,0.259,"GO:0006904","BP",9,"vesicle docking involved in exocytosis",1,NA,8.86170445685406
+"240","magenta",TRUE,0.0183,4898,317,143,0.451,0.029,"GO:0016020","CC",11,"membrane",1,NA,1.71601259251274
+"241","magenta",TRUE,1.46e-08,463,317,37,0.117,0.08,"GO:0097458","CC",3,"neuron part",1,NA,3.96135771058774
+"242","magenta",TRUE,0.00116,183,317,17,0.054,0.093,"GO:0036477","CC",3,"somatodendritic compartment",2,NA,4.85961446295168
+"243","magenta",TRUE,1.77e-07,279,317,27,0.085,0.097,"GO:0045202","CC",3,"synapse",1,NA,4.91652259522356
+"244","magenta",TRUE,4.31e-07,192,317,22,0.069,0.115,"GO:0044456","CC",3,"synapse part",1,NA,5.37044008671767
+"245","magenta",TRUE,0.00577,86,317,11,0.035,0.128,"GO:0098793","CC",3,"presynapse",2,NA,NA
+"246","magenta",TRUE,0.0465,70,317,9,0.028,0.129,"GO:0008021","CC",3,"synaptic vesicle",2,NA,6.68161381736946
+"247","magenta",TRUE,0.0091,90,317,11,0.035,0.122,"GO:0098794","CC",3,"postsynapse",1,NA,NA
+"248","magenta",TRUE,7.52e-06,330,317,27,0.085,0.082,"GO:0043005","CC",3,"neuron projection",1,NA,4.30060676259961
+"249","magenta",TRUE,0.00155,166,317,16,0.05,0.096,"GO:1990351","CC",4,"transporter complex",1,NA,5.23160364186346
+"250","magenta",TRUE,0.00102,161,317,16,0.05,0.099,"GO:1902495","CC",4,"transmembrane transporter complex",2,NA,5.25029577487561
+"251","magenta",TRUE,0.000608,136,317,15,0.047,0.11,"GO:0034702","CC",4,"ion channel complex",3,NA,5.34938667751984
+"252","magenta",TRUE,0.0472,2845,317,92,0.29,0.032,"GO:0071944","CC",10,"cell periphery",1,NA,2.51128334816943
+"253","magenta",TRUE,0.0409,105,317,11,0.035,0.105,"GO:0022843","MF",14,"voltage-gated cation channel activity",1,NA,5.41557295616122
+"254","magenta",TRUE,0.0249,3,317,3,0.009,1,"GO:0030160","MF",7,"GKAP/Homer scaffold activity",1,NA,9.49311040006694
+"255","magenta",TRUE,0.00352,198,317,17,0.054,0.086,"GO:0022836","MF",12,"gated channel activity",1,NA,4.72242577560128
+"256","magenta",TRUE,0.038,261,317,18,0.057,0.069,"GO:0022838","MF",2,"substrate-specific channel activity",1,NA,4.48247510597069
+"257","magenta",TRUE,0.0262,254,317,18,0.057,0.071,"GO:0005216","MF",2,"ion channel activity",1,NA,4.50267781328821
+"258","grey60",TRUE,0.0141,237,266,16,0.06,0.068,"GO:0042391","BP",6,"regulation of membrane potential",1,NA,4.98703723796968
+"259","grey60",TRUE,0.00151,784,266,35,0.132,0.045,"GO:0030030","BP",4,"cell projection organization",1,NA,3.99802357571447
+"260","grey60",TRUE,0.0149,238,266,16,0.06,0.067,"GO:0031344","BP",4,"regulation of cell projection organization",2,NA,4.99747211526226
+"261","grey60",TRUE,0.000247,1119,266,46,0.173,0.041,"GO:0007399","BP",4,"nervous system development",1,NA,3.3992860796256
+"262","grey60",TRUE,0.00123,777,266,35,0.132,0.045,"GO:0022008","BP",4,"neurogenesis",2,NA,3.90353273229355
+"263","grey60",TRUE,0.00055,751,266,35,0.132,0.047,"GO:0048699","BP",4,"generation of neurons",3,NA,4.00189205249239
+"264","grey60",TRUE,0.000296,698,266,34,0.128,0.049,"GO:0030182","BP",4,"neuron differentiation",4,NA,4.18111763158122
+"265","grey60",TRUE,0.0449,260,266,16,0.06,0.062,"GO:0050767","BP",4,"regulation of neurogenesis",3,NA,4.90089128725648
+"266","grey60",TRUE,0.00259,208,266,16,0.06,0.077,"GO:0045664","BP",4,"regulation of neuron differentiation",4,NA,5.18963212105651
+"267","grey60",TRUE,0.035,609,266,27,0.102,0.044,"GO:0032990","BP",4,"cell part morphogenesis",1,NA,4.58503833783801
+"268","grey60",TRUE,0.0277,601,266,27,0.102,0.045,"GO:0048858","BP",4,"cell projection morphogenesis",2,NA,4.60609174703584
+"269","grey60",TRUE,0.000218,591,266,31,0.117,0.052,"GO:0048666","BP",4,"neuron development",1,NA,4.45498520958981
+"270","grey60",TRUE,0.037,19,266,5,0.019,0.263,"GO:0008038","BP",4,"neuron recognition",2,NA,7.88087520384234
+"271","grey60",TRUE,5.25e-05,555,266,31,0.117,0.056,"GO:0031175","BP",4,"neuron projection development",2,NA,4.6013747571577
+"272","grey60",TRUE,0.00667,458,266,24,0.09,0.052,"GO:0048812","BP",4,"neuron projection morphogenesis",3,NA,5.15220571553739
+"273","grey60",TRUE,0.00382,165,266,14,0.053,0.085,"GO:0010975","BP",4,"regulation of neuron projection development",3,NA,5.42235530922753
+"274","grey60",TRUE,0.0189,76,266,9,0.034,0.118,"GO:0050803","BP",1,"regulation of synapse structure or activity",1,NA,6.93989185937781
+"275","grey60",TRUE,0.000154,780,266,37,0.139,0.047,"GO:0007267","BP",1,"cell-cell signaling",1,NA,4.51789903500038
+"276","grey60",TRUE,1.02e-05,488,266,30,0.113,0.061,"GO:0007268","BP",1,"synaptic transmission",2,NA,5.246292154622
+"277","grey60",TRUE,0.00163,111,266,12,0.045,0.108,"GO:0050804","BP",1,"modulation of synaptic transmission",1,NA,5.85767338048538
+"278","grey60",TRUE,0.0311,45,266,7,0.026,0.156,"GO:0048167","BP",1,"regulation of synaptic plasticity",2,NA,6.76164362797149
+"279","grey60",TRUE,0.018,3511,266,95,0.357,0.027,"GO:0051179","BP",3,"localization",1,NA,2.05727472843938
+"280","grey60",TRUE,0.0119,2908,266,83,0.312,0.029,"GO:0051234","BP",3,"establishment of localization",2,NA,2.40912987822602
+"281","grey60",TRUE,0.00975,2847,266,82,0.308,0.029,"GO:0006810","BP",3,"transport",3,NA,2.45785435879334
+"282","grey60",TRUE,0.0414,2720,266,77,0.289,0.028,"GO:1902578","BP",3,"single-organism localization",1,NA,2.48980774991368
+"283","grey60",TRUE,0.0311,2606,266,75,0.282,0.029,"GO:0044765","BP",3,"single-organism transport",2,NA,2.58819871718438
+"284","grey60",TRUE,0.00168,1006,266,41,0.154,0.041,"GO:0006811","BP",3,"ion transport",3,NA,3.54931983309459
+"285","grey60",TRUE,0.000474,645,266,32,0.12,0.05,"GO:0006812","BP",3,"cation transport",4,NA,3.96885219841419
+"286","grey60",TRUE,0.00172,486,266,26,0.098,0.053,"GO:0030001","BP",3,"metal ion transport",5,NA,4.17649156319243
+"287","grey60",TRUE,0.0146,185,266,14,0.053,0.076,"GO:0010959","BP",3,"regulation of metal ion transport",6,NA,4.86045031769797
+"288","grey60",TRUE,0.0145,353,266,20,0.075,0.057,"GO:0015672","BP",3,"monovalent inorganic cation transport",5,NA,4.7813461366067
+"289","grey60",TRUE,0.00148,964,266,40,0.15,0.041,"GO:0055085","BP",3,"transmembrane transport",3,NA,4.1461862136971
+"290","grey60",TRUE,0.0023,693,266,32,0.12,0.046,"GO:0034220","BP",3,"ion transmembrane transport",4,NA,4.27843910625402
+"291","grey60",TRUE,0.0104,438,266,23,0.086,0.053,"GO:0098660","BP",3,"inorganic ion transmembrane transport",5,NA,4.67965431421286
+"292","grey60",TRUE,1.57e-07,463,266,32,0.12,0.069,"GO:0097458","CC",5,"neuron part",1,NA,3.96135771058774
+"293","grey60",TRUE,0.000374,279,266,20,0.075,0.072,"GO:0045202","CC",5,"synapse",1,NA,4.91652259522356
+"294","grey60",TRUE,0.0224,192,266,14,0.053,0.073,"GO:0044456","CC",5,"synapse part",1,NA,5.37044008671767
+"295","grey60",TRUE,0.00707,86,266,10,0.038,0.116,"GO:0098793","CC",5,"presynapse",2,NA,NA
+"296","grey60",TRUE,0.0145,16,266,5,0.019,0.312,"GO:0048786","CC",5,"presynaptic active zone",2,NA,8.93290561597595
+"297","grey60",TRUE,0.000319,330,266,22,0.083,0.067,"GO:0043005","CC",5,"neuron projection",1,NA,4.30060676259961
+"298","grey60",TRUE,0.0181,2845,266,81,0.305,0.028,"GO:0071944","CC",2,"cell periphery",1,NA,2.51128334816943
+"299","grey60",TRUE,0.019,2802,266,80,0.301,0.029,"GO:0005886","CC",2,"plasma membrane",1,NA,2.55405507415971
+"300","greenyellow",TRUE,0.0342,10,546,5,0.009,0.5,"GO:0071025","BP",4,"RNA surveillance",1,NA,8.25556865328375
+"301","greenyellow",TRUE,0.000373,7129,546,324,0.593,0.045,"GO:0008152","BP",3,"metabolic process",1,NA,1.09105922272488
+"302","greenyellow",TRUE,0.000427,6333,546,294,0.538,0.046,"GO:0044238","BP",3,"primary metabolic process",2,NA,1.35036207402462
+"303","greenyellow",TRUE,0.0248,3712,546,182,0.333,0.049,"GO:0009058","BP",3,"biosynthetic process",2,NA,2.21921765548681
+"304","greenyellow",TRUE,0.000885,6615,546,303,0.555,0.046,"GO:0071704","BP",3,"organic substance metabolic process",2,NA,1.24542089527368
+"305","greenyellow",TRUE,9.4e-05,5543,546,267,0.489,0.048,"GO:0043170","BP",3,"macromolecule metabolic process",3,NA,1.42116638675389
+"306","greenyellow",TRUE,0.00154,3153,546,165,0.302,0.052,"GO:0010467","BP",3,"gene expression",4,NA,2.31038605491273
+"307","greenyellow",TRUE,0.00961,3463,546,174,0.319,0.05,"GO:0019538","BP",3,"protein metabolic process",4,NA,2.18252411918334
+"308","greenyellow",TRUE,0.042,3669,546,179,0.328,0.049,"GO:1901576","BP",3,"organic substance biosynthetic process",3,NA,2.23388356353288
+"309","greenyellow",TRUE,0.00224,4170,546,206,0.377,0.049,"GO:0006807","BP",3,"nitrogen compound metabolic process",2,NA,2.03896255219888
+"310","greenyellow",TRUE,0.0391,1437,546,84,0.154,0.058,"GO:1901564","BP",3,"organonitrogen compound metabolic process",3,NA,3.94782483122211
+"311","greenyellow",TRUE,0.00263,869,546,61,0.112,0.07,"GO:1901566","BP",3,"organonitrogen compound biosynthetic process",4,NA,4.92336414310854
+"312","greenyellow",TRUE,0.048,850,546,56,0.103,0.066,"GO:0009057","BP",3,"macromolecule catabolic process",1,NA,4.05905046633234
+"313","greenyellow",TRUE,4.7e-05,6529,546,306,0.56,0.047,"GO:0044237","BP",3,"cellular metabolic process",1,NA,1.25366088916061
+"314","greenyellow",TRUE,0.000233,5206,546,252,0.462,0.048,"GO:0044260","BP",3,"cellular macromolecule metabolic process",2,NA,1.54792866847206
+"315","greenyellow",TRUE,0.0348,3194,546,160,0.293,0.05,"GO:0044267","BP",3,"cellular protein metabolic process",3,NA,2.30350665404179
+"316","greenyellow",TRUE,0.000818,3944,546,199,0.364,0.05,"GO:0034641","BP",3,"cellular nitrogen compound metabolic process",2,NA,2.08881479350958
+"317","greenyellow",TRUE,2.18e-05,580,546,51,0.093,0.088,"GO:0043603","BP",3,"cellular amide metabolic process",3,NA,5.55971372527535
+"318","greenyellow",TRUE,1.34e-05,487,546,46,0.084,0.094,"GO:0006518","BP",3,"peptide metabolic process",4,NA,6.2226471272388
+"319","greenyellow",TRUE,0.00726,3594,546,180,0.33,0.05,"GO:0044249","BP",3,"cellular biosynthetic process",2,NA,2.26002154210205
+"320","greenyellow",TRUE,0.00862,2786,546,146,0.267,0.052,"GO:0044271","BP",3,"cellular nitrogen compound biosynthetic process",3,NA,2.54664788713506
+"321","greenyellow",TRUE,2.2e-05,445,546,43,0.079,0.097,"GO:0043604","BP",3,"amide biosynthetic process",4,NA,7.04254601343789
+"322","greenyellow",TRUE,2.62e-05,415,546,41,0.075,0.099,"GO:0043043","BP",3,"peptide biosynthetic process",5,NA,8.08851456862058
+"323","greenyellow",TRUE,0.0326,507,546,39,0.071,0.077,"GO:0007005","BP",3,"mitochondrion organization",1,NA,4.32374302055942
+"324","greenyellow",TRUE,0.0234,2884,546,148,0.271,0.051,"GO:0034645","BP",3,"cellular macromolecule biosynthetic process",1,NA,2.45868228763876
+"325","greenyellow",TRUE,8.99e-06,400,546,41,0.075,0.102,"GO:0006412","BP",3,"translation",2,NA,5.22411829712768
+"326","greenyellow",TRUE,0.000955,200,546,24,0.044,0.12,"GO:0006413","BP",3,"translational initiation",3,NA,6.41935742148486
+"327","greenyellow",TRUE,0.0132,695,546,50,0.092,0.072,"GO:0044265","BP",3,"cellular macromolecule catabolic process",1,NA,4.23673164356979
+"328","greenyellow",TRUE,0.0334,434,546,35,0.064,0.081,"GO:0043632","BP",3,"modification-dependent macromolecule catabolic process",2,NA,4.86350375518486
+"329","greenyellow",TRUE,0.0433,100,546,14,0.026,0.14,"GO:0032543","BP",3,"mitochondrial translation",1,NA,7.5624214727238
+"330","greenyellow",TRUE,0.0209,5,546,4,0.007,0.8,"GO:0034475","BP",5,"U4 snRNA 3'-end processing",1,NA,Inf
+"331","greenyellow",TRUE,0.0209,5,546,4,0.007,0.8,"GO:0071051","BP",7,"polyadenylation-dependent snoRNA 3'-end processing",1,NA,Inf
+"332","greenyellow",TRUE,0.045,249,546,24,0.044,0.096,"GO:0005743","CC",6,"mitochondrial inner membrane",1,NA,5.23779561211138
+"333","greenyellow",TRUE,1.08e-05,3264,546,179,0.328,0.055,"GO:0031974","CC",1,"membrane-enclosed lumen",1,NA,2.11753978628716
+"334","greenyellow",TRUE,0.000655,8097,546,358,0.656,0.044,"GO:0043226","CC",1,"organelle",1,NA,0.565605514134331
+"335","greenyellow",TRUE,0.000182,7579,546,342,0.626,0.045,"GO:0043227","CC",1,"membrane-bounded organelle",2,NA,0.734472452582356
+"336","greenyellow",TRUE,2.1e-06,5353,546,267,0.489,0.05,"GO:0044422","CC",1,"organelle part",1,NA,1.39654167757144
+"337","greenyellow",TRUE,2.66e-05,3231,546,176,0.322,0.054,"GO:0043233","CC",1,"organelle lumen",2,NA,2.12773692576892
+"338","greenyellow",TRUE,3.68e-07,8662,546,392,0.718,0.045,"GO:0005622","CC",1,"intracellular",1,NA,0.458202476180666
+"339","greenyellow",TRUE,6.75e-08,8495,546,389,0.712,0.046,"GO:0044424","CC",1,"intracellular part",2,NA,0.465375469578815
+"340","greenyellow",TRUE,0.00259,6627,546,301,0.551,0.045,"GO:0005737","CC",1,"cytoplasm",3,NA,1.19900315497263
+"341","greenyellow",TRUE,8.35e-07,7076,546,334,0.612,0.047,"GO:0043229","CC",1,"intracellular organelle",3,NA,0.76882230233395
+"342","greenyellow",TRUE,1.66e-06,5240,546,263,0.482,0.05,"GO:0044446","CC",1,"intracellular organelle part",4,NA,1.42975381177755
+"343","greenyellow",TRUE,9.18e-06,3187,546,176,0.322,0.055,"GO:0070013","CC",1,"intracellular organelle lumen",5,NA,2.12801397245305
+"344","greenyellow",TRUE,1.3e-08,6479,546,319,0.584,0.049,"GO:0043231","CC",1,"intracellular membrane-bounded organelle",4,NA,0.948868868810718
+"345","greenyellow",TRUE,6.39e-06,4007,546,211,0.386,0.053,"GO:0005634","CC",1,"nucleus",5,NA,1.45008311116636
+"346","greenyellow",TRUE,0.000601,2920,546,157,0.288,0.054,"GO:0044428","CC",1,"nuclear part",6,NA,1.96995217652905
+"347","greenyellow",TRUE,0.000424,2718,546,149,0.273,0.055,"GO:0031981","CC",1,"nuclear lumen",7,NA,2.17539200032436
+"348","greenyellow",TRUE,0.012,2334,546,126,0.231,0.054,"GO:0005654","CC",1,"nucleoplasm",7,NA,2.53472674135937
+"349","greenyellow",TRUE,0.0342,10,546,5,0.009,0.5,"GO:0000177","CC",1,"cytoplasmic exosome (RNase complex)",1,NA,8.52744050786779
+"350","greenyellow",TRUE,0.0358,882,546,58,0.106,0.066,"GO:0005739","CC",1,"mitochondrion",1,NA,3.29011241294618
+"351","greenyellow",TRUE,0.028,541,546,41,0.075,0.076,"GO:0044429","CC",1,"mitochondrial part",2,NA,4.26476063082647
+"352","greenyellow",TRUE,0.044,1139,546,70,0.128,0.061,"GO:0003723","MF",2,"RNA binding",1,NA,2.84477372826373
+"353","greenyellow",TRUE,0.00792,980,546,65,0.119,0.066,"GO:0044822","MF",2,"poly(A) RNA binding",2,NA,3.10286973300159
+"354","darkgreen",TRUE,0.00829,3511,312,110,0.353,0.031,"GO:0051179","BP",1,"localization",1,NA,2.05727472843938
+"355","darkgreen",TRUE,0.00144,2908,312,98,0.314,0.034,"GO:0051234","BP",1,"establishment of localization",2,NA,2.40912987822602
+"356","darkgreen",TRUE,0.00101,2847,312,97,0.311,0.034,"GO:0006810","BP",1,"transport",3,NA,2.45785435879334
+"357","darkgreen",TRUE,0.000656,1945,312,74,0.237,0.038,"GO:0051641","BP",1,"cellular localization",2,NA,2.8819751659645
+"358","darkgreen",TRUE,0.00179,1702,312,66,0.212,0.039,"GO:0051649","BP",1,"establishment of localization in cell",3,NA,3.13431396841229
+"359","darkgreen",TRUE,0.0242,1254,312,50,0.16,0.04,"GO:0046907","BP",1,"intracellular transport",4,NA,3.57175533997654
+"360","darkgreen",TRUE,0.00615,2720,312,91,0.292,0.033,"GO:1902578","BP",1,"single-organism localization",1,NA,2.48980774991368
+"361","darkgreen",TRUE,0.00348,2606,312,89,0.285,0.034,"GO:0044765","BP",1,"single-organism transport",2,NA,2.58819871718438
+"362","darkgreen",TRUE,0.0394,488,312,26,0.083,0.053,"GO:0007268","BP",4,"synaptic transmission",1,NA,5.246292154622
+"363","darkgreen",TRUE,0.00866,21,312,6,0.019,0.286,"GO:1903514","BP",2,"calcium ion transport from endoplasmic reticulum to cytosol",1,NA,7.25226654441996
+"364","darkgreen",TRUE,0.0203,24,312,6,0.019,0.25,"GO:0070296","BP",2,"sarcoplasmic reticulum calcium ion transport",1,NA,7.15695636461564
+"365","darkgreen",TRUE,0.0402,54,312,8,0.026,0.148,"GO:0051208","BP",2,"sequestering of calcium ion",1,NA,7.06994498762601
+"366","darkgreen",TRUE,0.026,51,312,8,0.026,0.157,"GO:0051282","BP",2,"regulation of sequestering of calcium ion",1,NA,6.27143729140824
+"367","darkgreen",TRUE,0.026,51,312,8,0.026,0.157,"GO:0051283","BP",2,"negative regulation of sequestering of calcium ion",2,NA,6.29675509939252
+"368","darkgreen",TRUE,0.026,51,312,8,0.026,0.157,"GO:0051209","BP",2,"release of sequestered calcium ion into cytosol",3,NA,6.29675509939252
+"369","darkgreen",TRUE,0.00866,21,312,6,0.019,0.286,"GO:0014808","BP",2,"release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",4,NA,7.25226654441996
+"370","darkgreen",TRUE,0.00569,42,312,8,0.026,0.19,"GO:0010522","BP",2,"regulation of calcium ion transport into cytosol",1,NA,6.61041265824757
+"371","darkgreen",TRUE,0.000791,33,312,8,0.026,0.242,"GO:0051279","BP",2,"regulation of release of sequestered calcium ion into cytosol",2,NA,6.80331632437206
+"372","darkgreen",TRUE,0.00449,19,312,6,0.019,0.316,"GO:0010880","BP",2,"regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum",3,NA,7.51796971015297
+"373","darkgreen",TRUE,0.0263,25,312,6,0.019,0.24,"GO:0050661","MF",3,"NADP binding",1,NA,7.29588582273072
+"374","saddlebrown",TRUE,0.0084,1525,379,68,0.179,0.045,"GO:0033036","BP",3,"macromolecule localization",1,NA,3.18267015188705
+"375","saddlebrown",TRUE,0.0222,1945,379,80,0.211,0.041,"GO:0051641","BP",3,"cellular localization",1,NA,2.8819751659645
+"376","saddlebrown",TRUE,0.0133,1014,379,50,0.132,0.049,"GO:0070727","BP",3,"cellular macromolecule localization",2,NA,3.74570864709998
+"377","saddlebrown",TRUE,0.0116,1009,379,50,0.132,0.05,"GO:0034613","BP",3,"cellular protein localization",3,NA,3.74771064977065
+"378","saddlebrown",TRUE,0.00392,727,379,41,0.108,0.056,"GO:0061024","BP",2,"membrane organization",1,NA,4.27843910625402
+"379","saddlebrown",TRUE,0.0327,1254,379,57,0.15,0.045,"GO:0046907","BP",1,"intracellular transport",1,NA,3.57175533997654
+"380","saddlebrown",TRUE,4.08e-05,8097,379,261,0.689,0.032,"GO:0043226","CC",4,"organelle",1,NA,0.565605514134331
+"381","saddlebrown",TRUE,1.98e-06,7579,379,253,0.668,0.033,"GO:0043227","CC",4,"membrane-bounded organelle",2,NA,0.734472452582356
+"382","saddlebrown",TRUE,4.57e-06,8662,379,278,0.734,0.032,"GO:0005622","CC",4,"intracellular",1,NA,0.458202476180666
+"383","saddlebrown",TRUE,4.66e-06,8495,379,274,0.723,0.032,"GO:0044424","CC",4,"intracellular part",2,NA,0.465375469578815
+"384","saddlebrown",TRUE,3.54e-06,6627,379,228,0.602,0.034,"GO:0005737","CC",4,"cytoplasm",3,NA,1.19900315497263
+"385","saddlebrown",TRUE,5.56e-07,5278,379,195,0.515,0.037,"GO:0044444","CC",4,"cytoplasmic part",4,NA,1.60446826308079
+"386","saddlebrown",TRUE,1e-04,7076,379,234,0.617,0.033,"GO:0043229","CC",4,"intracellular organelle",3,NA,0.76882230233395
+"387","saddlebrown",TRUE,2.49e-05,6479,379,221,0.583,0.034,"GO:0043231","CC",4,"intracellular membrane-bounded organelle",4,NA,0.948868868810718
+"388","saddlebrown",TRUE,4.61e-06,2181,379,100,0.264,0.046,"GO:0012505","CC",4,"endomembrane system",1,NA,2.44332081759953
+"389","saddlebrown",TRUE,0.0408,857,379,43,0.113,0.05,"GO:0005794","CC",4,"Golgi apparatus",2,NA,3.63458824942791
+"390","saddlebrown",TRUE,0.0262,471,379,29,0.077,0.062,"GO:0042175","CC",4,"nuclear outer membrane-endoplasmic reticulum membrane network",1,NA,4.78186571007731
+"391","saddlebrown",TRUE,0.000948,1642,379,75,0.198,0.046,"GO:0031090","CC",4,"organelle membrane",1,NA,3.18430912552996
+"392","saddlebrown",TRUE,0.0204,1234,379,57,0.15,0.046,"GO:0098588","CC",4,"bounding membrane of organelle",2,NA,3.54269298472366
+"393","saddlebrown",TRUE,0.0182,462,379,29,0.077,0.063,"GO:0005789","CC",4,"endoplasmic reticulum membrane",3,NA,4.83440304360519
+"394","saddlebrown",TRUE,0.0157,151,379,15,0.04,0.099,"GO:0003924","MF",5,"GTPase activity",1,NA,6.0591231955818
+"395","cyan",TRUE,0.0377,1541,369,65,0.176,0.042,"GO:0043933","BP",3,"macromolecular complex subunit organization",1,NA,3.11496892666865
+"396","cyan",TRUE,9.16e-06,214,369,23,0.062,0.107,"GO:0032984","BP",3,"macromolecular complex disassembly",1,NA,6.08911573461428
+"397","cyan",TRUE,0.00995,2786,369,105,0.285,0.038,"GO:0044271","BP",3,"cellular nitrogen compound biosynthetic process",1,NA,2.54664788713506
+"398","cyan",TRUE,0.0212,580,369,33,0.089,0.057,"GO:0043603","BP",3,"cellular amide metabolic process",1,NA,5.55971372527535
+"399","cyan",TRUE,0.00565,445,369,29,0.079,0.065,"GO:0043604","BP",3,"amide biosynthetic process",2,NA,7.04254601343789
+"400","cyan",TRUE,0.000471,205,369,20,0.054,0.098,"GO:0043241","BP",3,"protein complex disassembly",1,NA,6.2226471272388
+"401","cyan",TRUE,0.000113,188,369,20,0.054,0.106,"GO:0043624","BP",3,"cellular protein complex disassembly",2,NA,6.52632954103703
+"402","cyan",TRUE,0.0468,2884,369,105,0.285,0.036,"GO:0034645","BP",3,"cellular macromolecule biosynthetic process",1,NA,2.45868228763876
+"403","cyan",TRUE,0.00432,415,369,28,0.076,0.067,"GO:0043043","BP",3,"peptide biosynthetic process",1,NA,8.08851456862058
+"404","cyan",TRUE,0.0021,400,369,28,0.076,0.07,"GO:0006412","BP",3,"translation",2,NA,5.22411829712768
+"405","cyan",TRUE,4.31e-05,144,369,18,0.049,0.125,"GO:0006414","BP",3,"translational elongation",3,NA,8.35087883308807
+"406","cyan",TRUE,1.36e-05,134,369,18,0.049,0.134,"GO:0006415","BP",3,"translational termination",3,NA,9.26716956496223
+"407","cyan",TRUE,2.44e-06,200,369,23,0.062,0.115,"GO:0006413","BP",3,"translational initiation",1,NA,6.41935742148486
+"408","cyan",TRUE,0.0152,100,369,12,0.033,0.12,"GO:0032543","BP",3,"mitochondrial translation",1,NA,7.5624214727238
+"409","cyan",TRUE,0.000896,77,369,12,0.033,0.156,"GO:0070125","BP",3,"mitochondrial translational elongation",2,NA,9.96031674552217
+"410","cyan",TRUE,0.00577,76,369,11,0.03,0.145,"GO:0070124","BP",3,"mitochondrial translational initiation",2,NA,9.96031674552217
+"411","cyan",TRUE,0.00851,79,369,11,0.03,0.139,"GO:0070126","BP",3,"mitochondrial translational termination",2,NA,10.6534639260821
+"412","cyan",TRUE,0.00708,93,369,12,0.033,0.129,"GO:0022900","BP",4,"electron transport chain",1,NA,8.35087883308807
+"413","cyan",TRUE,0.00631,92,369,12,0.033,0.13,"GO:0022904","BP",4,"respiratory electron transport chain",2,NA,8.4562393487459
+"414","cyan",TRUE,0.0436,444,369,27,0.073,0.061,"GO:0030529","CC",1,"ribonucleoprotein complex",1,NA,3.92060504256063
+"415","cyan",TRUE,0.000616,136,369,16,0.043,0.118,"GO:0005840","CC",1,"ribosome",2,NA,5.32198770333173
+"416","cyan",TRUE,0.0397,61,369,9,0.024,0.148,"GO:0000313","CC",1,"organellar ribosome",3,NA,6.82269241562936
+"417","cyan",TRUE,0.00018,109,369,15,0.041,0.138,"GO:0044391","CC",1,"ribosomal subunit",3,NA,5.49088623979354
+"418","cyan",TRUE,0.00911,882,369,45,0.122,0.051,"GO:0005739","CC",1,"mitochondrion",1,NA,3.29011241294618
+"419","cyan",TRUE,0.0345,541,369,31,0.084,0.057,"GO:0044429","CC",1,"mitochondrial part",2,NA,4.26476063082647
+"420","cyan",TRUE,0.0076,356,369,25,0.068,0.07,"GO:0005740","CC",1,"mitochondrial envelope",3,NA,4.61875640370516
+"421","cyan",TRUE,0.00163,327,369,25,0.068,0.076,"GO:0031966","CC",1,"mitochondrial membrane",3,NA,4.75085547333475
+"422","cyan",TRUE,0.0397,61,369,9,0.024,0.148,"GO:0005761","CC",1,"mitochondrial ribosome",2,NA,6.82269241562936
+"423","cyan",TRUE,4.41e-05,271,369,25,0.068,0.092,"GO:0019866","CC",1,"organelle inner membrane",1,NA,5.17753642059318
+"424","cyan",TRUE,7.93e-06,249,369,25,0.068,0.1,"GO:0005743","CC",1,"mitochondrial inner membrane",2,NA,5.23779561211138
+"425","cyan",TRUE,0.0187,102,369,12,0.033,0.118,"GO:0003735","MF",2,"structural constituent of ribosome",1,NA,7.1905253070729
+"426","cyan",TRUE,0.000142,1139,369,59,0.16,0.052,"GO:0003723","MF",5,"RNA binding",1,NA,2.84477372826373
+"427","cyan",TRUE,0.000185,980,369,53,0.144,0.054,"GO:0044822","MF",5,"poly(A) RNA binding",2,NA,3.10286973300159
+"428","pink",TRUE,0.0241,6,437,4,0.009,0.667,"GO:0071276","BP",9,"cellular response to cadmium ion",1,NA,8.57402238440228
+"429","pink",TRUE,0.0428,1538,437,74,0.169,0.048,"GO:0009056","BP",14,"catabolic process",1,NA,3.37690752336341
+"430","pink",TRUE,0.0142,1227,437,64,0.146,0.052,"GO:1901575","BP",14,"organic substance catabolic process",2,NA,3.6513079716785
+"431","pink",TRUE,0.000151,243,437,25,0.057,0.103,"GO:1901565","BP",14,"organonitrogen compound catabolic process",3,NA,5.54751845218154
+"432","pink",TRUE,0.0288,62,437,10,0.023,0.161,"GO:0006721","BP",7,"terpenoid metabolic process",1,NA,6.93989185937781
+"433","pink",TRUE,0.0155,58,437,10,0.023,0.172,"GO:0016101","BP",7,"diterpenoid metabolic process",2,NA,7.21947672159697
+"434","pink",TRUE,0.0112,56,437,10,0.023,0.179,"GO:0001523","BP",7,"retinoid metabolic process",3,NA,7.28616809609564
+"435","pink",TRUE,0.00467,149,437,17,0.039,0.114,"GO:1901605","BP",1,"alpha-amino acid metabolic process",1,NA,5.62302600468968
+"436","pink",TRUE,0.0024,59,437,11,0.025,0.186,"GO:1901606","BP",1,"alpha-amino acid catabolic process",1,NA,7.01587776635573
+"437","pink",TRUE,0.0015,10688,437,361,0.826,0.034,"GO:0008150","BP",5,"biological_process",1,NA,0
+"438","pink",TRUE,1.91e-07,3810,437,174,0.398,0.046,"GO:0023052","BP",5,"signaling",2,NA,2.12889798033647
+"439","pink",TRUE,4e-12,8727,437,337,0.771,0.039,"GO:0044699","BP",5,"single-organism process",2,NA,0.467394786483166
+"440","pink",TRUE,1.78e-07,3807,437,174,0.398,0.046,"GO:0044700","BP",5,"single organism signaling",3,NA,2.12969241930576
+"441","pink",TRUE,0.000329,3577,437,154,0.352,0.043,"GO:0044710","BP",5,"single-organism metabolic process",3,NA,2.28779154230712
+"442","pink",TRUE,3.25e-07,1758,437,99,0.227,0.056,"GO:0044281","BP",5,"small molecule metabolic process",4,NA,3.48874354731026
+"443","pink",TRUE,0.00587,185,437,19,0.043,0.103,"GO:0044282","BP",5,"small molecule catabolic process",5,NA,5.69763686848086
+"444","pink",TRUE,1.51e-05,3451,437,155,0.355,0.045,"GO:0032501","BP",5,"multicellular organismal process",2,NA,1.67871931335938
+"445","pink",TRUE,1.96e-06,3328,437,154,0.352,0.046,"GO:0044707","BP",5,"single-multicellular organism process",3,NA,1.69853206600742
+"446","pink",TRUE,0.00305,804,437,49,0.112,0.061,"GO:0003008","BP",5,"system process",4,NA,3.89189115727806
+"447","pink",TRUE,9.28e-05,3511,437,154,0.352,0.044,"GO:0051179","BP",5,"localization",2,NA,2.05727472843938
+"448","pink",TRUE,0.000407,728,437,48,0.11,0.066,"GO:0051674","BP",5,"localization of cell",3,NA,3.74971666849752
+"449","pink",TRUE,1.83e-05,6873,437,263,0.602,0.038,"GO:0065007","BP",5,"biological regulation",2,NA,0.656987066703161
+"450","pink",TRUE,0.00116,2087,437,100,0.229,0.048,"GO:0065008","BP",5,"regulation of biological quality",3,NA,2.78674164094539
+"451","pink",TRUE,1.83e-05,2797,437,132,0.302,0.047,"GO:0032502","BP",5,"developmental process",2,NA,1.87144795636018
+"452","pink",TRUE,3.79e-06,2508,437,124,0.284,0.049,"GO:0048856","BP",5,"anatomical structure development",3,NA,1.9731319972887
+"453","pink",TRUE,2.81e-05,2703,437,128,0.293,0.047,"GO:0044767","BP",5,"single-organism developmental process",3,NA,1.88847359591301
+"454","pink",TRUE,0.000137,2160,437,106,0.243,0.049,"GO:0007275","BP",5,"multicellular organismal development",4,NA,2.11607602738036
+"455","pink",TRUE,1.87e-05,1974,437,102,0.233,0.052,"GO:0048731","BP",5,"system development",5,NA,2.21336778505085
+"456","pink",TRUE,0.021,1400,437,70,0.16,0.05,"GO:0009653","BP",5,"anatomical structure morphogenesis",3,NA,2.91497580358747
+"457","pink",TRUE,7.96e-05,9702,437,340,0.778,0.035,"GO:0009987","BP",5,"cellular process",2,NA,0.339789099102495
+"458","pink",TRUE,2.57e-12,7891,437,315,0.721,0.04,"GO:0044763","BP",5,"single-organism cellular process",3,NA,0.827073423930956
+"459","pink",TRUE,1.85e-07,3957,437,179,0.41,0.045,"GO:0007154","BP",5,"cell communication",4,NA,2.11040807514015
+"460","pink",TRUE,0.00405,1868,437,90,0.206,0.048,"GO:0048869","BP",5,"cellular developmental process",4,NA,2.65613710308402
+"461","pink",TRUE,0.001,1675,437,85,0.195,0.051,"GO:0030154","BP",5,"cell differentiation",5,NA,2.76026505653751
+"462","pink",TRUE,0.00361,715,437,45,0.103,0.063,"GO:0006082","BP",5,"organic acid metabolic process",4,NA,4.12404508781989
+"463","pink",TRUE,0.00549,703,437,44,0.101,0.063,"GO:0043436","BP",5,"oxoacid metabolic process",5,NA,4.1461862136971
+"464","pink",TRUE,0.0167,617,437,39,0.089,0.063,"GO:0019752","BP",5,"carboxylic acid metabolic process",6,NA,4.20141497164489
+"465","pink",TRUE,0.00836,1005,437,56,0.128,0.056,"GO:0040011","BP",5,"locomotion",2,NA,3.55261201713807
+"466","pink",TRUE,0.000407,728,437,48,0.11,0.066,"GO:0048870","BP",5,"cell motility",3,NA,3.74971666849752
+"467","pink",TRUE,0.000149,682,437,47,0.108,0.069,"GO:0016477","BP",5,"cell migration",4,NA,3.81613111139653
+"468","pink",TRUE,3.98e-08,5016,437,216,0.494,0.043,"GO:0050896","BP",5,"response to stimulus",2,NA,1.49874197786895
+"469","pink",TRUE,0.000584,2250,437,107,0.245,0.048,"GO:0042221","BP",5,"response to chemical",3,NA,2.70755432746898
+"470","pink",TRUE,0.0212,117,437,14,0.032,0.12,"GO:0009410","BP",5,"response to xenobiotic stimulus",4,NA,7.04254601343789
+"471","pink",TRUE,3.8e-08,4276,437,192,0.439,0.045,"GO:0051716","BP",5,"cellular response to stimulus",3,NA,1.81100390188683
+"472","pink",TRUE,0.000365,1610,437,84,0.192,0.052,"GO:0070887","BP",5,"cellular response to chemical stimulus",4,NA,3.07941892070992
+"473","pink",TRUE,0.0192,116,437,14,0.032,0.121,"GO:0071466","BP",5,"cellular response to xenobiotic stimulus",5,NA,7.06994498762601
+"474","pink",TRUE,0.00246,6417,437,240,0.549,0.037,"GO:0050789","BP",5,"regulation of biological process",2,NA,0.725625282682158
+"475","pink",TRUE,5.12e-06,1245,437,75,0.172,0.06,"GO:0051239","BP",5,"regulation of multicellular organismal process",3,NA,2.73483527273988
+"476","pink",TRUE,0.0057,458,437,33,0.076,0.072,"GO:0051241","BP",5,"negative regulation of multicellular organismal process",4,NA,4.01358809225558
+"477","pink",TRUE,0.0153,1387,437,70,0.16,0.05,"GO:0032879","BP",5,"regulation of localization",3,NA,2.91323440131894
+"478","pink",TRUE,0.0487,2299,437,101,0.231,0.044,"GO:0048583","BP",5,"regulation of response to stimulus",3,NA,2.43332996893026
+"479","pink",TRUE,0.00249,6055,437,229,0.524,0.038,"GO:0050794","BP",5,"regulation of cellular process",3,NA,0.900741125435726
+"480","pink",TRUE,1.74e-06,3439,437,158,0.362,0.046,"GO:0007165","BP",5,"signal transduction",4,NA,2.24207579356286
+"481","pink",TRUE,0.0144,1598,437,78,0.178,0.049,"GO:0009966","BP",5,"regulation of signal transduction",5,NA,2.75431044273902
+"482","pink",TRUE,0.011,408,437,30,0.069,0.074,"GO:0040012","BP",5,"regulation of locomotion",3,NA,4.19826536274199
+"483","pink",TRUE,9.94e-07,1060,437,69,0.158,0.065,"GO:0050793","BP",5,"regulation of developmental process",3,NA,3.17925911958599
+"484","pink",TRUE,0.00567,501,437,35,0.08,0.07,"GO:0022603","BP",5,"regulation of anatomical structure morphogenesis",4,NA,4.23836696691052
+"485","pink",TRUE,0.00184,394,437,31,0.071,0.079,"GO:0051093","BP",5,"negative regulation of developmental process",4,NA,4.31310462235436
+"486","pink",TRUE,0.00149,715,437,46,0.105,0.064,"GO:2000026","BP",5,"regulation of multicellular organismal development",4,NA,3.52416637715274
+"487","pink",TRUE,0.000609,738,437,48,0.11,0.065,"GO:0045595","BP",5,"regulation of cell differentiation",4,NA,3.69977971521158
+"488","pink",TRUE,0.0178,355,437,27,0.062,0.076,"GO:0060284","BP",5,"regulation of cell development",5,NA,4.56896451300695
+"489","pink",TRUE,0.0074,299,437,25,0.057,0.084,"GO:0045596","BP",5,"negative regulation of cell differentiation",5,NA,4.70282137349439
+"490","pink",TRUE,0.000649,3346,437,145,0.332,0.043,"GO:0048518","BP",5,"positive regulation of biological process",2,NA,1.55976973622525
+"491","pink",TRUE,0.05,1330,437,66,0.151,0.05,"GO:0048584","BP",5,"positive regulation of response to stimulus",3,NA,3.16629023186838
+"492","pink",TRUE,0.0452,2907,437,122,0.279,0.042,"GO:0048522","BP",5,"positive regulation of cellular process",3,NA,1.81636351491936
+"493","pink",TRUE,0.00301,323,437,27,0.062,0.084,"GO:1901615","BP",5,"organic hydroxy compound metabolic process",1,NA,5.08894351875942
+"494","pink",TRUE,0.0309,245,437,21,0.048,0.086,"GO:0006066","BP",5,"alcohol metabolic process",2,NA,5.45496689481629
+"495","pink",TRUE,0.000302,835,437,53,0.121,0.063,"GO:0006629","BP",5,"lipid metabolic process",1,NA,3.86674697547704
+"496","pink",TRUE,0.000222,669,437,46,0.105,0.069,"GO:0044255","BP",5,"cellular lipid metabolic process",2,NA,4.16882869044686
+"497","pink",TRUE,0.0213,60,437,10,0.023,0.167,"GO:0071241","BP",5,"cellular response to inorganic substance",1,NA,6.28401607361509
+"498","pink",TRUE,0.000305,422,437,34,0.078,0.081,"GO:0051270","BP",5,"regulation of cellular component movement",1,NA,4.1873192018445
+"499","pink",TRUE,0.00157,371,437,30,0.069,0.081,"GO:2000145","BP",5,"regulation of cell motility",2,NA,4.32731445292702
+"500","pink",TRUE,0.000511,352,437,30,0.069,0.085,"GO:0030334","BP",5,"regulation of cell migration",3,NA,4.37494250191627
+"501","pink",TRUE,0.0192,116,437,14,0.032,0.121,"GO:0006805","BP",5,"xenobiotic metabolic process",1,NA,7.0981158645927
+"502","pink",TRUE,0.00968,284,437,24,0.055,0.085,"GO:0051960","BP",5,"regulation of nervous system development",1,NA,4.74538098791319
+"503","pink",TRUE,0.00275,85,437,13,0.03,0.153,"GO:0051961","BP",5,"negative regulation of nervous system development",2,NA,6.11016914381211
+"504","pink",TRUE,0.0237,260,437,22,0.05,0.085,"GO:0050767","BP",5,"regulation of neurogenesis",1,NA,4.90089128725648
+"505","pink",TRUE,0.00575,77,437,12,0.027,0.156,"GO:0050768","BP",5,"negative regulation of neurogenesis",1,NA,6.2108126695918
+"506","pink",TRUE,0.0155,58,437,10,0.023,0.172,"GO:0045665","BP",5,"negative regulation of neuron differentiation",1,NA,6.61041265824757
+"507","pink",TRUE,0.0454,79,437,11,0.025,0.139,"GO:1903825","BP",10,"organic acid transmembrane transport",1,NA,7.25226654441996
+"508","pink",TRUE,0.000801,117,437,16,0.037,0.137,"GO:0097164","BP",11,"ammonium ion metabolic process",1,NA,6.06849644741154
+"509","pink",TRUE,0.0436,460,437,31,0.071,0.067,"GO:0000165","BP",12,"MAPK cascade",1,NA,4.32910496370081
+"510","pink",TRUE,0.00752,138,437,16,0.037,0.116,"GO:0070371","BP",12,"ERK1 and ERK2 cascade",2,NA,5.61003880916287
+"511","pink",TRUE,0.0379,413,437,29,0.066,0.07,"GO:0043408","BP",12,"regulation of MAPK cascade",1,NA,4.45498520958981
+"512","pink",TRUE,0.0011,11021,437,370,0.847,0.034,"GO:0005575","CC",2,"cellular_component",1,NA,0
+"513","pink",TRUE,0.0114,159,437,17,0.039,0.107,"GO:0031012","CC",2,"extracellular matrix",2,NA,4.75851834608031
+"514","pink",TRUE,0.00258,527,437,37,0.085,0.07,"GO:0030054","CC",2,"cell junction",2,NA,3.77528813153105
+"515","pink",TRUE,0.00185,354,437,29,0.066,0.082,"GO:0070161","CC",2,"anchoring junction",3,NA,4.31778509913469
+"516","pink",TRUE,0.00122,347,437,29,0.066,0.084,"GO:0005912","CC",2,"adherens junction",4,NA,4.34284906779791
+"517","pink",TRUE,0.00164,313,437,27,0.062,0.086,"GO:0030055","CC",2,"cell-substrate junction",3,NA,4.44708218762043
+"518","pink",TRUE,0.00127,309,437,27,0.062,0.087,"GO:0005924","CC",2,"cell-substrate adherens junction",4,NA,4.46412805489341
+"519","pink",TRUE,0.00119,308,437,27,0.062,0.088,"GO:0005925","CC",2,"focal adhesion",5,NA,4.46987519714898
+"520","pink",TRUE,7.17e-07,2830,437,138,0.316,0.049,"GO:0005576","CC",2,"extracellular region",2,NA,2.05329264294009
+"521","pink",TRUE,1.94e-07,2668,437,134,0.307,0.05,"GO:0044421","CC",2,"extracellular region part",2,NA,2.08013464532657
+"522","pink",TRUE,0.00685,709,437,44,0.101,0.062,"GO:0005615","CC",2,"extracellular space",3,NA,3.52349420192233
+"523","pink",TRUE,2.24e-06,2216,437,114,0.261,0.051,"GO:0043230","CC",2,"extracellular organelle",3,NA,2.39621401838465
+"524","pink",TRUE,2.69e-05,2203,437,110,0.252,0.05,"GO:0065010","CC",2,"extracellular membrane-bounded organelle",4,NA,2.39621401838465
+"525","pink",TRUE,5.26e-07,2596,437,130,0.297,0.05,"GO:0031982","CC",2,"vesicle",1,NA,2.18561255943488
+"526","pink",TRUE,2.24e-06,2216,437,114,0.261,0.051,"GO:1903561","CC",2,"extracellular vesicle",2,NA,2.39693891874259
+"527","pink",TRUE,3.83e-06,2536,437,125,0.286,0.049,"GO:0031988","CC",2,"membrane-bounded vesicle",1,NA,2.24642064392634
+"528","pink",TRUE,2.69e-05,2203,437,110,0.252,0.05,"GO:0070062","CC",2,"extracellular exosome",2,NA,2.39730156607205
+"529","pink",TRUE,0.00623,376,437,29,0.066,0.077,"GO:0009986","CC",6,"cell surface",1,NA,4.24155773374681
+"530","pink",TRUE,0.048,1625,437,77,0.176,0.047,"GO:0031224","CC",3,"intrinsic component of membrane",1,NA,3.57986334973867
+"531","pink",TRUE,0.0456,1568,437,75,0.172,0.048,"GO:0016021","CC",3,"integral component of membrane",2,NA,3.65097172867844
+"532","pink",TRUE,6.05e-08,2845,437,142,0.325,0.05,"GO:0071944","CC",3,"cell periphery",1,NA,2.51128334816943
+"533","pink",TRUE,4.03e-08,2802,437,141,0.323,0.05,"GO:0005886","CC",3,"plasma membrane",1,NA,2.55405507415971
+"534","pink",TRUE,3.29e-05,1500,437,83,0.19,0.055,"GO:0044459","CC",3,"plasma membrane part",2,NA,3.2682105300278
+"535","pink",TRUE,0.00374,1078,437,60,0.137,0.056,"GO:0031226","CC",3,"intrinsic component of plasma membrane",2,NA,4.25309188699209
+"536","pink",TRUE,0.00446,1034,437,58,0.133,0.056,"GO:0005887","CC",3,"integral component of plasma membrane",2,NA,4.3556206334774
+"537","pink",TRUE,0.000942,402,437,32,0.073,0.08,"GO:0016491","MF",13,"oxidoreductase activity",1,NA,3.96169915135153
+"538","pink",TRUE,0.0406,859,437,48,0.11,0.056,"GO:0060089","MF",8,"molecular transducer activity",1,NA,3.8180703942764
+"539","pink",TRUE,0.0452,740,437,43,0.098,0.058,"GO:0004871","MF",8,"signal transducer activity",2,NA,3.93050753887352
+"540","pink",TRUE,0.00956,24,437,7,0.016,0.292,"GO:0016620","MF",4,"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor",1,NA,6.72052167782716
+"541","pink",TRUE,0.0137,17,437,6,0.014,0.353,"GO:0004029","MF",4,"aldehyde dehydrogenase (NAD) activity",2,NA,7.62130822316535
+"542","orange",TRUE,0.0211,1039,387,51,0.132,0.049,"GO:0007049","BP",5,"cell cycle",1,NA,3.61030401009378
+"543","orange",TRUE,0.0171,678,387,38,0.098,0.056,"GO:0000278","BP",5,"mitotic cell cycle",2,NA,4.38816271334441
+"544","orange",TRUE,0.0189,841,387,44,0.114,0.052,"GO:0022402","BP",5,"cell cycle process",1,NA,3.80227899858837
+"545","orange",TRUE,0.00363,7129,387,233,0.602,0.033,"GO:0008152","BP",2,"metabolic process",1,NA,1.09105922272488
+"546","orange",TRUE,0.00216,6333,387,213,0.55,0.034,"GO:0044238","BP",2,"primary metabolic process",2,NA,1.35036207402462
+"547","orange",TRUE,0.00968,4170,387,150,0.388,0.036,"GO:0006807","BP",2,"nitrogen compound metabolic process",2,NA,2.03896255219888
+"548","orange",TRUE,0.00168,6615,387,221,0.571,0.033,"GO:0071704","BP",2,"organic substance metabolic process",2,NA,1.24542089527368
+"549","orange",TRUE,0.000117,5543,387,197,0.509,0.036,"GO:0043170","BP",2,"macromolecule metabolic process",3,NA,1.42116638675389
+"550","orange",TRUE,0.0105,3153,387,120,0.31,0.038,"GO:0010467","BP",2,"gene expression",4,NA,2.31038605491273
+"551","orange",TRUE,0.0109,2500,387,100,0.258,0.04,"GO:0043412","BP",2,"macromolecule modification",4,NA,2.51841001747055
+"552","orange",TRUE,0.00236,3597,387,136,0.351,0.038,"GO:1901360","BP",2,"organic cyclic compound metabolic process",3,NA,2.09015079905233
+"553","orange",TRUE,0.000296,6529,387,222,0.574,0.034,"GO:0044237","BP",2,"cellular metabolic process",1,NA,1.25366088916061
+"554","orange",TRUE,9.05e-06,5206,387,192,0.496,0.037,"GO:0044260","BP",2,"cellular macromolecule metabolic process",2,NA,1.54792866847206
+"555","orange",TRUE,0.00128,3459,387,133,0.344,0.038,"GO:0006725","BP",2,"cellular aromatic compound metabolic process",2,NA,2.12790581833425
+"556","orange",TRUE,0.000689,3456,387,134,0.346,0.039,"GO:0046483","BP",2,"heterocycle metabolic process",2,NA,2.13148221793408
+"557","orange",TRUE,0.00153,3944,387,147,0.38,0.037,"GO:0034641","BP",2,"cellular nitrogen compound metabolic process",2,NA,2.08881479350958
+"558","orange",TRUE,0.00062,3350,387,131,0.339,0.039,"GO:0006139","BP",2,"nucleobase-containing compound metabolic process",3,NA,2.15158743877777
+"559","orange",TRUE,2.72e-05,2957,387,124,0.32,0.042,"GO:0090304","BP",2,"nucleic acid metabolic process",4,NA,2.22597664775037
+"560","orange",TRUE,0.000424,2646,387,110,0.284,0.042,"GO:0016070","BP",2,"RNA metabolic process",5,NA,2.43845749332054
+"561","orange",TRUE,0.000165,491,387,35,0.09,0.071,"GO:0006396","BP",2,"RNA processing",6,NA,4.79839200387969
+"562","orange",TRUE,0.000593,257,387,23,0.059,0.089,"GO:0008380","BP",2,"RNA splicing",7,NA,5.34025794704033
+"563","orange",TRUE,0.017,207,387,18,0.047,0.087,"GO:0000375","BP",2,"RNA splicing, via transesterification reactions",8,NA,5.74080904034606
+"564","orange",TRUE,0.0139,204,387,18,0.047,0.088,"GO:0000377","BP",2,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",9,NA,5.77826660288097
+"565","orange",TRUE,0.0473,266,387,20,0.052,0.075,"GO:0006397","BP",2,"mRNA processing",7,NA,5.26439219626562
+"566","orange",TRUE,0.0139,204,387,18,0.047,0.088,"GO:0000398","BP",2,"mRNA splicing, via spliceosome",8,NA,5.77826660288097
+"567","orange",TRUE,2.05e-05,2317,387,104,0.269,0.045,"GO:0006996","BP",6,"organelle organization",1,NA,2.57446566739696
+"568","orange",TRUE,0.0121,642,387,37,0.096,0.058,"GO:0051276","BP",6,"chromosome organization",2,NA,3.74271313812018
+"569","orange",TRUE,6.68e-06,632,387,44,0.114,0.07,"GO:0070647","BP",4,"protein modification by small protein conjugation or removal",1,NA,3.95642967841563
+"570","orange",TRUE,9.3e-05,548,387,38,0.098,0.069,"GO:0032446","BP",4,"protein modification by small protein conjugation",2,NA,4.17649156319243
+"571","orange",TRUE,0.00458,469,387,31,0.08,0.066,"GO:0016567","BP",4,"protein ubiquitination",3,NA,4.26490252053649
+"572","orange",TRUE,0.0207,2930,387,112,0.289,0.038,"GO:0032991","CC",7,"macromolecular complex",1,NA,1.98185141259867
+"573","orange",TRUE,3.53e-08,3264,387,143,0.37,0.044,"GO:0031974","CC",1,"membrane-enclosed lumen",1,NA,2.11753978628716
+"574","orange",TRUE,7.41e-06,9915,387,312,0.806,0.031,"GO:0005623","CC",1,"cell",1,NA,0.275255071864458
+"575","orange",TRUE,2.27e-08,8097,387,277,0.716,0.034,"GO:0043226","CC",1,"organelle",1,NA,0.565605514134331
+"576","orange",TRUE,0.0495,2106,387,85,0.22,0.04,"GO:0043228","CC",1,"non-membrane-bounded organelle",2,NA,2.22146940343162
+"577","orange",TRUE,2.12e-07,7579,387,261,0.674,0.034,"GO:0043227","CC",1,"membrane-bounded organelle",2,NA,0.734472452582356
+"578","orange",TRUE,5.33e-06,9895,387,312,0.806,0.032,"GO:0044464","CC",1,"cell part",1,NA,0.27551579406643
+"579","orange",TRUE,3.18e-14,8662,387,306,0.791,0.035,"GO:0005622","CC",1,"intracellular",2,NA,0.458202476180666
+"580","orange",TRUE,5.18e-15,8495,387,304,0.786,0.036,"GO:0044424","CC",1,"intracellular part",3,NA,0.465375469578815
+"581","orange",TRUE,6.81e-11,7076,387,259,0.669,0.037,"GO:0043229","CC",1,"intracellular organelle",4,NA,0.76882230233395
+"582","orange",TRUE,0.0495,2106,387,85,0.22,0.04,"GO:0043232","CC",1,"intracellular non-membrane-bounded organelle",5,NA,2.22146940343162
+"583","orange",TRUE,1.03e-10,6479,387,243,0.628,0.038,"GO:0043231","CC",1,"intracellular membrane-bounded organelle",5,NA,0.948868868810718
+"584","orange",TRUE,1.09e-14,4007,387,184,0.475,0.046,"GO:0005634","CC",1,"nucleus",6,NA,1.45008311116636
+"585","orange",TRUE,4e-07,5353,387,201,0.519,0.038,"GO:0044422","CC",1,"organelle part",1,NA,1.39654167757144
+"586","orange",TRUE,1.61e-08,3231,387,143,0.37,0.044,"GO:0043233","CC",1,"organelle lumen",2,NA,2.12773692576892
+"587","orange",TRUE,1.33e-06,5240,387,196,0.506,0.037,"GO:0044446","CC",1,"intracellular organelle part",2,NA,1.42975381177755
+"588","orange",TRUE,5.49e-09,3187,387,143,0.37,0.045,"GO:0070013","CC",1,"intracellular organelle lumen",3,NA,2.12801397245305
+"589","orange",TRUE,1.31e-10,2920,387,139,0.359,0.048,"GO:0044428","CC",1,"nuclear part",3,NA,1.96995217652905
+"590","orange",TRUE,0.0153,113,387,13,0.034,0.115,"GO:0005681","CC",1,"spliceosomal complex",4,NA,5.36337291949458
+"591","orange",TRUE,2.24e-09,2718,387,129,0.333,0.047,"GO:0031981","CC",1,"nuclear lumen",4,NA,2.17539200032436
+"592","orange",TRUE,6.03e-09,2334,387,115,0.297,0.049,"GO:0005654","CC",1,"nucleoplasm",4,NA,2.53472674135937
+"593","orange",TRUE,3.35e-06,8799,387,287,0.742,0.033,"GO:0005488","MF",3,"binding",1,NA,0.278529033833506
+"594","orange",TRUE,0.0136,2320,387,94,0.243,0.041,"GO:1901363","MF",3,"heterocyclic compound binding",2,NA,2.0671567429894
+"595","orange",TRUE,0.0072,7841,387,250,0.646,0.032,"GO:0005515","MF",3,"protein binding",2,NA,0.556417711578738
+"596","orange",TRUE,0.0322,2369,387,94,0.243,0.04,"GO:0097159","MF",3,"organic cyclic compound binding",2,NA,2.04856939564928
+"597","orange",TRUE,0.0138,1881,387,80,0.207,0.043,"GO:0003676","MF",3,"nucleic acid binding",3,NA,2.22908025716741
+"598","orange",TRUE,3.67e-06,1139,387,65,0.168,0.057,"GO:0003723","MF",3,"RNA binding",4,NA,2.84477372826373
+"599","orange",TRUE,1.86e-08,980,387,64,0.165,0.065,"GO:0044822","MF",3,"poly(A) RNA binding",5,NA,3.10286973300159
+"600","darkorange",TRUE,0.0244,6333,420,224,0.533,0.035,"GO:0044238","BP",2,"primary metabolic process",1,NA,1.35036207402462
+"601","darkorange",TRUE,0.0409,4170,420,158,0.376,0.038,"GO:0006807","BP",2,"nitrogen compound metabolic process",1,NA,2.03896255219888
+"602","darkorange",TRUE,0.0134,3459,420,138,0.329,0.04,"GO:0006725","BP",2,"cellular aromatic compound metabolic process",1,NA,2.12790581833425
+"603","darkorange",TRUE,0.021,3456,420,137,0.326,0.04,"GO:0046483","BP",2,"heterocycle metabolic process",1,NA,2.13148221793408
+"604","darkorange",TRUE,0.0254,3944,420,152,0.362,0.039,"GO:0034641","BP",2,"cellular nitrogen compound metabolic process",1,NA,2.08881479350958
+"605","darkorange",TRUE,0.0105,3350,420,135,0.321,0.04,"GO:0006139","BP",2,"nucleobase-containing compound metabolic process",2,NA,2.15158743877777
+"606","darkorange",TRUE,0.000261,3264,420,139,0.331,0.043,"GO:0031974","CC",1,"membrane-enclosed lumen",1,NA,2.11753978628716
+"607","darkorange",TRUE,0.00657,5353,420,198,0.471,0.037,"GO:0044422","CC",1,"organelle part",1,NA,1.39654167757144
+"608","darkorange",TRUE,0.000249,3231,420,138,0.329,0.043,"GO:0043233","CC",1,"organelle lumen",2,NA,2.12773692576892
+"609","darkorange",TRUE,0.0478,8662,420,288,0.686,0.033,"GO:0005622","CC",1,"intracellular",1,NA,0.458202476180666
+"610","darkorange",TRUE,0.00569,8495,420,288,0.686,0.034,"GO:0044424","CC",1,"intracellular part",2,NA,0.465375469578815
+"611","darkorange",TRUE,0.000129,7076,420,256,0.61,0.036,"GO:0043229","CC",1,"intracellular organelle",1,NA,0.76882230233395
+"612","darkorange",TRUE,0.00207,5240,420,197,0.469,0.038,"GO:0044446","CC",1,"intracellular organelle part",2,NA,1.42975381177755
+"613","darkorange",TRUE,0.000344,3187,420,136,0.324,0.043,"GO:0070013","CC",1,"intracellular organelle lumen",3,NA,2.12801397245305
+"614","darkorange",TRUE,4.12e-05,6479,420,241,0.574,0.037,"GO:0043231","CC",1,"intracellular membrane-bounded organelle",1,NA,0.948868868810718
+"615","darkorange",TRUE,8.13e-05,4007,420,165,0.393,0.041,"GO:0005634","CC",1,"nucleus",2,NA,1.45008311116636
+"616","darkorange",TRUE,0.000377,2920,420,127,0.302,0.043,"GO:0044428","CC",1,"nuclear part",3,NA,1.96995217652905
+"617","darkorange",TRUE,0.000126,2718,420,122,0.29,0.045,"GO:0031981","CC",1,"nuclear lumen",4,NA,2.17539200032436
+"618","darkorange",TRUE,0.000212,2334,420,108,0.257,0.046,"GO:0005654","CC",1,"nucleoplasm",4,NA,2.53472674135937
+"619","darkorange",TRUE,0.0285,426,420,29,0.069,0.068,"GO:0005694","CC",1,"chromosome",1,NA,3.76526657307003
+"620","darkorange",TRUE,0.0191,395,420,28,0.067,0.071,"GO:0044427","CC",1,"chromosomal part",2,NA,3.8992050489487
+"621","darkorange",TRUE,0.0498,225,420,19,0.045,0.084,"GO:0044454","CC",1,"nuclear chromosome part",3,NA,4.6808453077621
+"622","darkorange",TRUE,0.0184,1881,420,85,0.202,0.045,"GO:0003676","MF",3,"nucleic acid binding",1,NA,2.22908025716741
+"623","brown",TRUE,0.0329,784,530,52,0.098,0.066,"GO:0030030","BP",8,"cell projection organization",1,NA,3.99802357571447
+"624","brown",TRUE,0.0101,285,530,27,0.051,0.095,"GO:0022604","BP",5,"regulation of cell morphogenesis",1,NA,5.011556855144
+"625","brown",TRUE,0.0427,854,530,55,0.104,0.064,"GO:0032989","BP",3,"cellular component morphogenesis",1,NA,3.9993114058989
+"626","brown",TRUE,0.0178,277,530,26,0.049,0.094,"GO:0043062","BP",6,"extracellular structure organization",1,NA,6.17612711160391
+"627","brown",TRUE,0.0167,276,530,26,0.049,0.094,"GO:0030198","BP",6,"extracellular matrix organization",2,NA,6.18755580742753
+"628","brown",TRUE,0.000771,64,530,13,0.025,0.203,"GO:0007266","BP",1,"Rho protein signal transduction",1,NA,7.01587776635573
+"629","brown",TRUE,0.00407,1119,530,71,0.134,0.063,"GO:0007399","BP",9,"nervous system development",1,NA,3.3992860796256
+"630","brown",TRUE,2.43e-05,2830,530,155,0.292,0.055,"GO:0005576","CC",4,"extracellular region",1,NA,2.05329264294009
+"631","brown",TRUE,4.76e-05,2668,530,147,0.277,0.055,"GO:0044421","CC",4,"extracellular region part",1,NA,2.08013464532657
+"632","brown",TRUE,0.000221,2216,530,125,0.236,0.056,"GO:0043230","CC",4,"extracellular organelle",2,NA,2.39621401838465
+"633","brown",TRUE,0.000158,2203,530,125,0.236,0.057,"GO:0065010","CC",4,"extracellular membrane-bounded organelle",3,NA,2.39621401838465
+"634","brown",TRUE,0.0103,2596,530,134,0.253,0.052,"GO:0031982","CC",4,"vesicle",1,NA,2.18561255943488
+"635","brown",TRUE,0.000221,2216,530,125,0.236,0.056,"GO:1903561","CC",4,"extracellular vesicle",2,NA,2.39693891874259
+"636","brown",TRUE,0.00807,2536,530,132,0.249,0.052,"GO:0031988","CC",4,"membrane-bounded vesicle",1,NA,2.24642064392634
+"637","brown",TRUE,0.000158,2203,530,125,0.236,0.057,"GO:0070062","CC",4,"extracellular exosome",2,NA,2.39730156607205
+"638","brown",TRUE,0.0367,527,530,39,0.074,0.074,"GO:0030054","CC",7,"cell junction",1,NA,3.77528813153105
+"639","brown",TRUE,0.0104,354,530,31,0.058,0.088,"GO:0070161","CC",7,"anchoring junction",2,NA,4.31778509913469
+"640","brown",TRUE,0.019,347,530,30,0.057,0.086,"GO:0005912","CC",7,"adherens junction",3,NA,4.34284906779791
+"641","brown",TRUE,0.0201,313,530,28,0.053,0.089,"GO:0030055","CC",7,"cell-substrate junction",2,NA,4.44708218762043
+"642","brown",TRUE,0.0441,309,530,27,0.051,0.087,"GO:0005924","CC",7,"cell-substrate adherens junction",3,NA,4.46412805489341
+"643","brown",TRUE,0.0416,308,530,27,0.051,0.088,"GO:0005925","CC",7,"focal adhesion",4,NA,4.46987519714898
+"644","brown",TRUE,0.0495,6,530,4,0.008,0.667,"GO:0043209","CC",2,"myelin sheath",1,NA,8.0166148841018
+"645","lightcyan",TRUE,1.9e-05,72,335,13,0.039,0.181,"GO:0002576","BP",13,"platelet degranulation",1,NA,8.86170445685406
+"646","lightcyan",TRUE,0.00454,38,335,8,0.024,0.211,"GO:0071260","BP",16,"cellular response to mechanical stimulus",1,NA,6.86927429216386
+"647","lightcyan",TRUE,0.0221,7,335,4,0.012,0.571,"GO:0035589","BP",15,"G-protein coupled purinergic nucleotide receptor signaling pathway",1,NA,9.96031674552217
+"648","lightcyan",TRUE,0.0433,8,335,4,0.012,0.5,"GO:0031342","BP",10,"negative regulation of cell killing",1,NA,8.16855727629412
+"649","lightcyan",TRUE,0.0433,8,335,4,0.012,0.5,"GO:0001911","BP",10,"negative regulation of leukocyte mediated cytotoxicity",1,NA,8.35087883308807
+"650","lightcyan",TRUE,0.0307,115,335,12,0.036,0.104,"GO:0072330","BP",18,"monocarboxylic acid biosynthetic process",1,NA,5.80927683962353
+"651","lightcyan",TRUE,0.000352,28,335,8,0.024,0.286,"GO:1901570","BP",19,"fatty acid derivative biosynthetic process",1,NA,7.0981158645927
+"652","lightcyan",TRUE,0.000352,28,335,8,0.024,0.286,"GO:0046456","BP",19,"icosanoid biosynthetic process",1,NA,7.0981158645927
+"653","lightcyan",TRUE,0.00183,34,335,8,0.024,0.235,"GO:0006636","BP",14,"unsaturated fatty acid biosynthetic process",1,NA,6.91579430779875
+"654","lightcyan",TRUE,0.0294,3,335,3,0.009,1,"GO:0002399","BP",1,"MHC class II protein complex assembly",1,NA,8.57402238440228
+"655","lightcyan",TRUE,0.0294,3,335,3,0.009,1,"GO:0002503","BP",1,"peptide antigen assembly with MHC class II protein complex",1,NA,9.04402601364802
+"656","lightcyan",TRUE,0.00128,868,335,44,0.131,0.051,"GO:0016192","BP",3,"vesicle-mediated transport",1,NA,3.92006203424476
+"657","lightcyan",TRUE,9.98e-06,383,335,30,0.09,0.078,"GO:0006897","BP",3,"endocytosis",2,NA,5.00448968792091
+"658","lightcyan",TRUE,0.0321,24,335,6,0.018,0.25,"GO:0010324","BP",3,"membrane invagination",1,NA,7.65773165252813
+"659","lightcyan",TRUE,7.22e-10,133,335,22,0.066,0.165,"GO:0006909","BP",3,"phagocytosis",1,NA,6.30965850422843
+"660","lightcyan",TRUE,0.00223,16,335,6,0.018,0.375,"GO:0006911","BP",3,"phagocytosis, engulfment",2,NA,8.01440659646686
+"661","lightcyan",TRUE,0.00142,33,335,8,0.024,0.242,"GO:0050764","BP",3,"regulation of phagocytosis",2,NA,7.06994498762601
+"662","lightcyan",TRUE,2.51e-06,728,335,45,0.134,0.062,"GO:0051674","BP",5,"localization of cell",1,NA,3.74971666849752
+"663","lightcyan",TRUE,0.00216,10688,335,281,0.839,0.026,"GO:0008150","BP",5,"biological_process",1,NA,0
+"664","lightcyan",TRUE,3.31e-07,8727,335,254,0.758,0.029,"GO:0044699","BP",5,"single-organism process",2,NA,0.467394786483166
+"665","lightcyan",TRUE,0.0206,1124,335,49,0.146,0.044,"GO:0016265","BP",5,"death",3,NA,3.24493335918749
+"666","lightcyan",TRUE,0.0171,989,335,45,0.134,0.046,"GO:0008283","BP",5,"cell proliferation",3,NA,3.57765506210373
+"667","lightcyan",TRUE,4.98e-08,104,335,18,0.054,0.173,"GO:0070661","BP",5,"leukocyte proliferation",4,NA,5.61651132366849
+"668","lightcyan",TRUE,1.48e-07,97,335,17,0.051,0.175,"GO:0032943","BP",5,"mononuclear cell proliferation",5,NA,5.66985730437378
+"669","lightcyan",TRUE,1.08e-12,3810,335,155,0.463,0.041,"GO:0023052","BP",5,"signaling",2,NA,2.12889798033647
+"670","lightcyan",TRUE,1.01e-12,3807,335,155,0.463,0.041,"GO:0044700","BP",5,"single organism signaling",3,NA,2.12969241930576
+"671","lightcyan",TRUE,3.93e-09,3451,335,136,0.406,0.039,"GO:0032501","BP",5,"multicellular organismal process",2,NA,1.67871931335938
+"672","lightcyan",TRUE,1.53e-08,3328,335,131,0.391,0.039,"GO:0044707","BP",5,"single-multicellular organism process",3,NA,1.69853206600742
+"673","lightcyan",TRUE,8.29e-10,440,335,39,0.116,0.089,"GO:0050817","BP",5,"coagulation",4,NA,5.86597218330007
+"674","lightcyan",TRUE,2.81e-12,351,335,38,0.113,0.108,"GO:0001816","BP",5,"cytokine production",4,NA,4.0347249425649
+"675","lightcyan",TRUE,0.000982,55,335,10,0.03,0.182,"GO:0071706","BP",5,"tumor necrosis factor superfamily cytokine production",5,NA,6.34939883287795
+"676","lightcyan",TRUE,0.00413,50,335,9,0.027,0.18,"GO:0032640","BP",5,"tumor necrosis factor production",6,NA,6.44877130669115
+"677","lightcyan",TRUE,0.00686,40,335,8,0.024,0.2,"GO:0032635","BP",5,"interleukin-6 production",5,NA,6.5930209155357
+"678","lightcyan",TRUE,1.15e-09,747,335,52,0.155,0.07,"GO:0022610","BP",5,"biological adhesion",2,NA,3.80439764344866
+"679","lightcyan",TRUE,8.86e-10,742,335,52,0.155,0.07,"GO:0007155","BP",5,"cell adhesion",3,NA,3.81613111139653
+"680","lightcyan",TRUE,1.72e-12,403,335,41,0.122,0.102,"GO:0098602","BP",5,"single organism cell adhesion",4,NA,4.32196207618843
+"681","lightcyan",TRUE,8.83e-11,431,335,40,0.119,0.093,"GO:0098609","BP",5,"cell-cell adhesion",4,NA,6.36300448493373
+"682","lightcyan",TRUE,2.83e-12,370,335,39,0.116,0.105,"GO:0016337","BP",5,"single organismal cell-cell adhesion",5,NA,4.42692725679465
+"683","lightcyan",TRUE,1.7e-09,217,335,27,0.081,0.124,"GO:0007159","BP",5,"leukocyte cell-cell adhesion",6,NA,4.87581160285946
+"684","lightcyan",TRUE,1.57e-13,238,335,33,0.099,0.139,"GO:0034109","BP",5,"homotypic cell-cell adhesion",6,NA,4.80702515102439
+"685","lightcyan",TRUE,9.04e-10,195,335,26,0.078,0.133,"GO:0070486","BP",5,"leukocyte aggregation",7,NA,4.9939817103225
+"686","lightcyan",TRUE,4.86e-10,190,335,26,0.078,0.137,"GO:0071593","BP",5,"lymphocyte aggregation",8,NA,5.02225214426075
+"687","lightcyan",TRUE,4.16e-12,6873,335,228,0.681,0.033,"GO:0065007","BP",5,"biological regulation",2,NA,0.656987066703161
+"688","lightcyan",TRUE,0.00617,2087,335,79,0.236,0.038,"GO:0065008","BP",5,"regulation of biological quality",3,NA,2.78674164094539
+"689","lightcyan",TRUE,1.5e-09,492,335,41,0.122,0.083,"GO:0050878","BP",5,"regulation of body fluid levels",4,NA,5.43852816847313
+"690","lightcyan",TRUE,2.03e-10,442,335,40,0.119,0.09,"GO:0007599","BP",5,"hemostasis",5,NA,5.87434043297059
+"691","lightcyan",TRUE,0.0137,1743,335,68,0.203,0.039,"GO:0065009","BP",5,"regulation of molecular function",3,NA,2.95407451982538
+"692","lightcyan",TRUE,8.91e-05,992,335,51,0.152,0.051,"GO:0051704","BP",5,"multi-organism process",2,NA,3.67525018345142
+"693","lightcyan",TRUE,2.9e-37,1484,335,124,0.37,0.084,"GO:0002376","BP",5,"immune system process",2,NA,3.04360172516856
+"694","lightcyan",TRUE,3.79e-11,400,335,39,0.116,0.098,"GO:0002252","BP",5,"immune effector process",3,NA,4.62277866582085
+"695","lightcyan",TRUE,2.71e-06,116,335,17,0.051,0.147,"GO:0002443","BP",5,"leukocyte mediated immunity",4,NA,5.44945723900532
+"696","lightcyan",TRUE,0.00777,84,335,11,0.033,0.131,"GO:0002449","BP",5,"lymphocyte mediated immunity",5,NA,5.68365062650612
+"697","lightcyan",TRUE,0.0408,180,335,15,0.045,0.083,"GO:0019882","BP",5,"antigen processing and presentation",3,NA,6.61041265824757
+"698","lightcyan",TRUE,0.0145,145,335,14,0.042,0.097,"GO:0019884","BP",5,"antigen processing and presentation of exogenous antigen",4,NA,9.04402601364802
+"699","lightcyan",TRUE,0.00711,156,335,15,0.045,0.096,"GO:0048002","BP",5,"antigen processing and presentation of peptide antigen",4,NA,7.25226654441996
+"700","lightcyan",TRUE,0.0114,142,335,14,0.042,0.099,"GO:0002478","BP",5,"antigen processing and presentation of exogenous peptide antigen",5,NA,9.04402601364802
+"701","lightcyan",TRUE,9.83e-11,314,335,34,0.101,0.108,"GO:0002520","BP",5,"immune system development",3,NA,4.32731445292702
+"702","lightcyan",TRUE,0.00175,9,335,5,0.015,0.556,"GO:0002507","BP",5,"tolerance induction",3,NA,7.88087520384234
+"703","lightcyan",TRUE,0.00957,9702,335,259,0.773,0.027,"GO:0009987","BP",5,"cellular process",2,NA,0.339789099102495
+"704","lightcyan",TRUE,4.26e-06,7891,335,233,0.696,0.03,"GO:0044763","BP",5,"single-organism cellular process",3,NA,0.827073423930956
+"705","lightcyan",TRUE,0.000366,1160,335,55,0.164,0.047,"GO:0006928","BP",5,"movement of cell or subcellular component",4,NA,3.55757070498459
+"706","lightcyan",TRUE,1.35e-20,508,335,57,0.17,0.112,"GO:0001775","BP",5,"cell activation",4,NA,4.26322325901677
+"707","lightcyan",TRUE,1.93e-14,320,335,39,0.116,0.122,"GO:0045321","BP",5,"leukocyte activation",5,NA,4.42298247850364
+"708","lightcyan",TRUE,0.00983,70,335,10,0.03,0.143,"GO:0002274","BP",5,"myeloid leukocyte activation",6,NA,6.2226471272388
+"709","lightcyan",TRUE,5.66e-14,262,335,35,0.104,0.134,"GO:0046649","BP",5,"lymphocyte activation",6,NA,4.6132092148047
+"710","lightcyan",TRUE,2.77e-05,88,335,14,0.042,0.159,"GO:0042113","BP",5,"B cell activation",7,NA,5.98063509162021
+"711","lightcyan",TRUE,1.05e-07,95,335,17,0.051,0.179,"GO:0046651","BP",5,"lymphocyte proliferation",7,NA,5.69763686848086
+"712","lightcyan",TRUE,0.0156,32,335,7,0.021,0.219,"GO:0042100","BP",5,"B cell proliferation",8,NA,6.96458447196818
+"713","lightcyan",TRUE,4.86e-10,190,335,26,0.078,0.137,"GO:0070489","BP",5,"T cell aggregation",6,NA,5.02584281239148
+"714","lightcyan",TRUE,4.86e-10,190,335,26,0.078,0.137,"GO:0042110","BP",5,"T cell activation",7,NA,5.02584281239148
+"715","lightcyan",TRUE,0.00836,41,335,8,0.024,0.195,"GO:0046631","BP",5,"alpha-beta T cell activation",8,NA,6.40496868403276
+"716","lightcyan",TRUE,0.000395,63,335,11,0.033,0.175,"GO:0042098","BP",5,"T cell proliferation",8,NA,6.16482755634998
+"717","lightcyan",TRUE,1.56e-11,3957,335,156,0.466,0.039,"GO:0007154","BP",5,"cell communication",4,NA,2.11040807514015
+"718","lightcyan",TRUE,0.0206,1124,335,49,0.146,0.044,"GO:0008219","BP",5,"cell death",4,NA,3.24493335918749
+"719","lightcyan",TRUE,0.0178,1054,335,47,0.14,0.045,"GO:0012501","BP",5,"programmed cell death",5,NA,3.33426146731427
+"720","lightcyan",TRUE,0.0278,1040,335,46,0.137,0.044,"GO:0006915","BP",5,"apoptotic process",6,NA,3.36795737755933
+"721","lightcyan",TRUE,2.55e-06,1005,335,55,0.164,0.055,"GO:0040011","BP",5,"locomotion",2,NA,3.55261201713807
+"722","lightcyan",TRUE,2.51e-06,728,335,45,0.134,0.062,"GO:0048870","BP",5,"cell motility",3,NA,3.74971666849752
+"723","lightcyan",TRUE,3.08e-07,682,335,45,0.134,0.066,"GO:0016477","BP",5,"cell migration",4,NA,3.81613111139653
+"724","lightcyan",TRUE,1.08e-09,213,335,27,0.081,0.127,"GO:0050900","BP",5,"leukocyte migration",5,NA,5.25530122456436
+"725","lightcyan",TRUE,1.06e-18,5016,335,200,0.597,0.04,"GO:0050896","BP",5,"response to stimulus",2,NA,1.49874197786895
+"726","lightcyan",TRUE,6.99e-05,2250,335,90,0.269,0.04,"GO:0042221","BP",5,"response to chemical",3,NA,2.70755432746898
+"727","lightcyan",TRUE,3.11e-06,1556,335,73,0.218,0.047,"GO:0010033","BP",5,"response to organic substance",4,NA,3.14467675544784
+"728","lightcyan",TRUE,5.54e-11,425,335,40,0.119,0.094,"GO:0034097","BP",5,"response to cytokine",5,NA,4.55090533146855
+"729","lightcyan",TRUE,6.17e-07,1317,335,67,0.2,0.051,"GO:0009605","BP",5,"response to external stimulus",3,NA,3.45229304280044
+"730","lightcyan",TRUE,5.5e-08,392,335,34,0.101,0.087,"GO:0009607","BP",5,"response to biotic stimulus",3,NA,4.43287375598238
+"731","lightcyan",TRUE,1.61e-08,375,335,34,0.101,0.091,"GO:0043207","BP",5,"response to external biotic stimulus",4,NA,4.48385319359066
+"732","lightcyan",TRUE,1.61e-08,375,335,34,0.101,0.091,"GO:0051707","BP",5,"response to other organism",5,NA,4.48385319359066
+"733","lightcyan",TRUE,6.2e-06,155,335,19,0.057,0.123,"GO:0009617","BP",5,"response to bacterium",6,NA,5.01867432291287
+"734","lightcyan",TRUE,0.00121,101,335,13,0.039,0.129,"GO:0002237","BP",5,"response to molecule of bacterial origin",5,NA,5.71182150347281
+"735","lightcyan",TRUE,2.84e-20,2486,335,133,0.397,0.053,"GO:0006950","BP",5,"response to stress",3,NA,2.75431044273902
+"736","lightcyan",TRUE,2.47e-26,1013,335,89,0.266,0.088,"GO:0006952","BP",5,"defense response",4,NA,4.07421271407202
+"737","lightcyan",TRUE,0.000655,227,335,20,0.06,0.088,"GO:0098542","BP",5,"defense response to other organism",5,NA,5.16866699259146
+"738","lightcyan",TRUE,2.44e-08,261,335,28,0.084,0.107,"GO:0006954","BP",5,"inflammatory response",5,NA,5.44945723900532
+"739","lightcyan",TRUE,1.51e-14,633,335,55,0.164,0.087,"GO:0009611","BP",5,"response to wounding",4,NA,4.85740617531675
+"740","lightcyan",TRUE,1.49e-10,502,335,43,0.128,0.086,"GO:0042060","BP",5,"wound healing",5,NA,5.36519689538758
+"741","lightcyan",TRUE,7.17e-10,438,335,39,0.116,0.089,"GO:0007596","BP",5,"blood coagulation",6,NA,5.88277930161645
+"742","lightcyan",TRUE,8.31e-07,206,335,23,0.069,0.112,"GO:0030168","BP",5,"platelet activation",7,NA,6.46380918405569
+"743","lightcyan",TRUE,0.000157,35,335,9,0.027,0.257,"GO:0070527","BP",5,"platelet aggregation",8,NA,6.86927429216386
+"744","lightcyan",TRUE,3.61e-12,4276,335,166,0.496,0.039,"GO:0051716","BP",5,"cellular response to stimulus",3,NA,1.81100390188683
+"745","lightcyan",TRUE,3.19e-05,75,335,13,0.039,0.173,"GO:0071216","BP",5,"cellular response to biotic stimulus",4,NA,6.06849644741154
+"746","lightcyan",TRUE,4.63e-05,64,335,12,0.036,0.188,"GO:0071219","BP",5,"cellular response to molecule of bacterial origin",5,NA,6.19911662982861
+"747","lightcyan",TRUE,0.00195,59,335,10,0.03,0.169,"GO:0071222","BP",5,"cellular response to lipopolysaccharide",6,NA,6.34939883287795
+"748","lightcyan",TRUE,9.61e-07,1610,335,76,0.227,0.047,"GO:0070887","BP",5,"cellular response to chemical stimulus",4,NA,3.07941892070992
+"749","lightcyan",TRUE,1.35e-06,1311,335,66,0.197,0.05,"GO:0071310","BP",5,"cellular response to organic substance",5,NA,3.4426454726099
+"750","lightcyan",TRUE,8.55e-11,370,335,37,0.11,0.1,"GO:0071345","BP",5,"cellular response to cytokine stimulus",6,NA,4.83933339425705
+"751","lightcyan",TRUE,1.59e-33,960,335,96,0.287,0.1,"GO:0006955","BP",5,"immune response",3,NA,4.04411468291474
+"752","lightcyan",TRUE,9.62e-08,108,335,18,0.054,0.167,"GO:0002250","BP",5,"adaptive immune response",4,NA,5.55359749825792
+"753","lightcyan",TRUE,1.07e-05,82,335,14,0.042,0.171,"GO:0002460","BP",5,"adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains",5,NA,5.69763686848086
+"754","lightcyan",TRUE,0.00282,76,335,11,0.033,0.145,"GO:0006959","BP",5,"humoral immune response",4,NA,6.28401607361509
+"755","lightcyan",TRUE,2e-21,683,335,67,0.2,0.098,"GO:0045087","BP",5,"innate immune response",4,NA,4.97671012381383
+"756","lightcyan",TRUE,3.38e-12,104,335,22,0.066,0.212,"GO:0034341","BP",5,"response to interferon-gamma",5,NA,6.70222020750069
+"757","lightcyan",TRUE,3.72e-12,93,335,21,0.063,0.226,"GO:0071346","BP",5,"cellular response to interferon-gamma",6,NA,7.18772802328239
+"758","lightcyan",TRUE,4.44e-05,77,335,13,0.039,0.169,"GO:0002263","BP",5,"cell activation involved in immune response",4,NA,5.90853179771887
+"759","lightcyan",TRUE,3.19e-05,75,335,13,0.039,0.173,"GO:0002366","BP",5,"leukocyte activation involved in immune response",4,NA,5.91726547768762
+"760","lightcyan",TRUE,2.66e-10,6417,335,213,0.636,0.033,"GO:0050789","BP",5,"regulation of biological process",2,NA,0.725625282682158
+"761","lightcyan",TRUE,9.12e-14,2299,335,114,0.34,0.05,"GO:0048583","BP",5,"regulation of response to stimulus",3,NA,2.43332996893026
+"762","lightcyan",TRUE,0.000964,1009,335,49,0.146,0.049,"GO:0080134","BP",5,"regulation of response to stress",4,NA,3.91058329029021
+"763","lightcyan",TRUE,3.25e-11,502,335,44,0.131,0.088,"GO:0031347","BP",5,"regulation of defense response",5,NA,4.83635276611891
+"764","lightcyan",TRUE,0.000787,544,335,33,0.099,0.061,"GO:0032101","BP",5,"regulation of response to external stimulus",4,NA,4.51357937385586
+"765","lightcyan",TRUE,2.97e-06,1245,335,63,0.188,0.051,"GO:0051239","BP",5,"regulation of multicellular organismal process",3,NA,2.73483527273988
+"766","lightcyan",TRUE,8.15e-12,325,335,36,0.107,0.111,"GO:0001817","BP",5,"regulation of cytokine production",4,NA,4.09810703427145
+"767","lightcyan",TRUE,0.000564,52,335,10,0.03,0.192,"GO:1903555","BP",5,"regulation of tumor necrosis factor superfamily cytokine production",5,NA,6.37679780706606
+"768","lightcyan",TRUE,0.00346,49,335,9,0.027,0.184,"GO:0032680","BP",5,"regulation of tumor necrosis factor production",6,NA,6.46380918405569
+"769","lightcyan",TRUE,0.0056,39,335,8,0.024,0.205,"GO:0032675","BP",5,"regulation of interleukin-6 production",5,NA,6.5930209155357
+"770","lightcyan",TRUE,0.00726,1780,335,70,0.209,0.039,"GO:0023051","BP",5,"regulation of signaling",3,NA,2.65613710308402
+"771","lightcyan",TRUE,1.6e-22,886,335,78,0.233,0.088,"GO:0002682","BP",5,"regulation of immune system process",3,NA,3.67898501505707
+"772","lightcyan",TRUE,3.02e-06,239,335,24,0.072,0.1,"GO:0002697","BP",5,"regulation of immune effector process",4,NA,5.18119325241064
+"773","lightcyan",TRUE,4.63e-05,64,335,12,0.036,0.188,"GO:0002703","BP",5,"regulation of leukocyte mediated immunity",5,NA,5.94393372476978
+"774","lightcyan",TRUE,5.83e-05,159,335,18,0.054,0.113,"GO:0002683","BP",5,"negative regulation of immune system process",4,NA,5.00097474581347
+"775","lightcyan",TRUE,1.73e-20,607,335,62,0.185,0.102,"GO:0050776","BP",5,"regulation of immune response",4,NA,4.49436853759018
+"776","lightcyan",TRUE,0.00583,52,335,9,0.027,0.173,"GO:0002819","BP",5,"regulation of adaptive immune response",5,NA,6.06849644741154
+"777","lightcyan",TRUE,0.0174,45,335,8,0.024,0.178,"GO:0002822","BP",5,"regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains",6,NA,6.16482755634998
+"778","lightcyan",TRUE,4.85e-05,52,335,11,0.033,0.212,"GO:0050777","BP",5,"negative regulation of immune response",5,NA,6.29675509939252
+"779","lightcyan",TRUE,7.98e-10,299,335,32,0.096,0.107,"GO:0045088","BP",5,"regulation of innate immune response",5,NA,5.38046436751837
+"780","lightcyan",TRUE,0.0245,23,335,6,0.018,0.261,"GO:0045824","BP",5,"negative regulation of innate immune response",6,NA,7.28616809609564
+"781","lightcyan",TRUE,1.04e-09,6055,335,203,0.606,0.034,"GO:0050794","BP",5,"regulation of cellular process",3,NA,0.900741125435726
+"782","lightcyan",TRUE,3.29e-08,343,335,32,0.096,0.093,"GO:0030155","BP",5,"regulation of cell adhesion",4,NA,4.49436853759018
+"783","lightcyan",TRUE,1.24e-06,192,335,22,0.066,0.115,"GO:0022407","BP",5,"regulation of cell-cell adhesion",5,NA,5.03669282841555
+"784","lightcyan",TRUE,1.98e-06,145,335,19,0.057,0.131,"GO:1903037","BP",5,"regulation of leukocyte cell-cell adhesion",6,NA,5.33045394694371
+"785","lightcyan",TRUE,3.54e-06,150,335,19,0.057,0.127,"GO:0034110","BP",5,"regulation of homotypic cell-cell adhesion",6,NA,5.28748791106027
+"786","lightcyan",TRUE,6.41e-11,222,335,29,0.087,0.131,"GO:0050865","BP",5,"regulation of cell activation",4,NA,4.84232293310542
+"787","lightcyan",TRUE,4.51e-11,203,335,28,0.084,0.138,"GO:0002694","BP",5,"regulation of leukocyte activation",5,NA,4.92012264918437
+"788","lightcyan",TRUE,1.63e-11,180,335,27,0.081,0.15,"GO:0051249","BP",5,"regulation of lymphocyte activation",6,NA,5.04033581969405
+"789","lightcyan",TRUE,4.47e-07,44,335,12,0.036,0.273,"GO:0050864","BP",5,"regulation of B cell activation",7,NA,6.66447987951784
+"790","lightcyan",TRUE,0.0373,15,335,5,0.015,0.333,"GO:0050869","BP",5,"negative regulation of B cell activation",8,NA,8.08851456862058
+"791","lightcyan",TRUE,1.07e-06,140,335,19,0.057,0.136,"GO:0050863","BP",5,"regulation of T cell activation",7,NA,5.36519689538758
+"792","lightcyan",TRUE,0.000477,29,335,8,0.024,0.276,"GO:0046634","BP",5,"regulation of alpha-beta T cell activation",8,NA,6.76164362797149
+"793","lightcyan",TRUE,0.0389,1904,335,71,0.212,0.037,"GO:0010646","BP",5,"regulation of cell communication",4,NA,2.65244396475847
+"794","lightcyan",TRUE,7.21e-15,3439,335,150,0.448,0.044,"GO:0007165","BP",5,"signal transduction",4,NA,2.24207579356286
+"795","lightcyan",TRUE,0.000163,1675,335,72,0.215,0.043,"GO:0035556","BP",5,"intracellular signal transduction",5,NA,3.13322936960749
+"796","lightcyan",TRUE,0.00315,186,335,17,0.051,0.091,"GO:0007249","BP",5,"I-kappaB kinase/NF-kappaB signaling",6,NA,5.27818551839795
+"797","lightcyan",TRUE,4.61e-14,1724,335,96,0.287,0.056,"GO:0007166","BP",5,"cell surface receptor signaling pathway",5,NA,3.01286009968848
+"798","lightcyan",TRUE,2.44e-10,305,335,33,0.099,0.108,"GO:0019221","BP",5,"cytokine-mediated signaling pathway",6,NA,5.41702196325217
+"799","lightcyan",TRUE,3.52e-11,70,335,18,0.054,0.257,"GO:0060333","BP",5,"interferon-gamma-mediated signaling pathway",7,NA,8.25556865328375
+"800","lightcyan",TRUE,0.00342,26,335,7,0.021,0.269,"GO:0031663","BP",5,"lipopolysaccharide-mediated signaling pathway",6,NA,7.32125941590691
+"801","lightcyan",TRUE,0.000278,1598,335,69,0.206,0.043,"GO:0009966","BP",5,"regulation of signal transduction",5,NA,2.75431044273902
+"802","lightcyan",TRUE,0.00832,962,335,45,0.134,0.047,"GO:1902531","BP",5,"regulation of intracellular signal transduction",6,NA,3.31003769693475
+"803","lightcyan",TRUE,0.0427,401,335,24,0.072,0.06,"GO:0097190","BP",5,"apoptotic signaling pathway",5,NA,4.50499563016447
+"804","lightcyan",TRUE,0.0123,143,335,14,0.042,0.098,"GO:0097191","BP",5,"extrinsic apoptotic signaling pathway",6,NA,5.60360791883258
+"805","lightcyan",TRUE,1.77e-11,431,335,41,0.122,0.095,"GO:0002764","BP",5,"immune response-regulating signaling pathway",5,NA,5.42235530922753
+"806","lightcyan",TRUE,0.001,323,335,24,0.072,0.074,"GO:0002768","BP",5,"immune response-regulating cell surface receptor signaling pathway",6,NA,6.17612711160391
+"807","lightcyan",TRUE,1.43e-12,3346,335,142,0.424,0.042,"GO:0048518","BP",5,"positive regulation of biological process",2,NA,1.55976973622525
+"808","lightcyan",TRUE,5.09e-06,2907,335,112,0.334,0.039,"GO:0048522","BP",5,"positive regulation of cellular process",3,NA,1.81636351491936
+"809","lightcyan",TRUE,0.00964,1030,335,47,0.14,0.046,"GO:0010647","BP",5,"positive regulation of cell communication",4,NA,3.4688347733648
+"810","lightcyan",TRUE,2.47e-07,194,335,23,0.069,0.119,"GO:0045785","BP",5,"positive regulation of cell adhesion",4,NA,5.11612965906358
+"811","lightcyan",TRUE,1.33e-06,126,335,18,0.054,0.143,"GO:0022409","BP",5,"positive regulation of cell-cell adhesion",5,NA,5.59086889305515
+"812","lightcyan",TRUE,1.8e-07,112,335,18,0.054,0.161,"GO:0034112","BP",5,"positive regulation of homotypic cell-cell adhesion",6,NA,5.75562412613121
+"813","lightcyan",TRUE,1.8e-07,112,335,18,0.054,0.161,"GO:1903039","BP",5,"positive regulation of leukocyte cell-cell adhesion",6,NA,5.77826660288097
+"814","lightcyan",TRUE,3.55e-10,157,335,24,0.072,0.153,"GO:0050867","BP",5,"positive regulation of cell activation",4,NA,5.34025794704033
+"815","lightcyan",TRUE,1.01e-16,1330,335,87,0.26,0.065,"GO:0048584","BP",5,"positive regulation of response to stimulus",3,NA,3.16629023186838
+"816","lightcyan",TRUE,4.13e-10,292,335,32,0.096,0.11,"GO:0031349","BP",5,"positive regulation of defense response",4,NA,5.40643985392163
+"817","lightcyan",TRUE,0.00126,927,335,46,0.137,0.05,"GO:0023056","BP",5,"positive regulation of signaling",3,NA,3.47415595657808
+"818","lightcyan",TRUE,0.000531,870,335,45,0.134,0.052,"GO:0009967","BP",5,"positive regulation of signal transduction",4,NA,3.55343675945286
+"819","lightcyan",TRUE,0.00792,548,335,31,0.093,0.057,"GO:1902533","BP",5,"positive regulation of intracellular signal transduction",5,NA,3.95150356007958
+"820","lightcyan",TRUE,0.0297,134,335,13,0.039,0.097,"GO:0043123","BP",5,"positive regulation of I-kappaB kinase/NF-kappaB signaling",6,NA,5.62958340523584
+"821","lightcyan",TRUE,4.44e-05,689,335,41,0.122,0.06,"GO:0051240","BP",5,"positive regulation of multicellular organismal process",3,NA,3.42652790758883
+"822","lightcyan",TRUE,1.7e-08,221,335,26,0.078,0.118,"GO:0001819","BP",5,"positive regulation of cytokine production",4,NA,4.54421634331775
+"823","lightcyan",TRUE,0.000511,2241,335,87,0.26,0.039,"GO:0009893","BP",5,"positive regulation of metabolic process",3,NA,2.4128150627072
+"824","lightcyan",TRUE,8.9e-25,580,335,66,0.197,0.114,"GO:0002684","BP",5,"positive regulation of immune system process",3,NA,4.10381318384831
+"825","lightcyan",TRUE,1.32e-05,70,335,13,0.039,0.186,"GO:0002699","BP",5,"positive regulation of immune effector process",4,NA,5.76311479786036
+"826","lightcyan",TRUE,1.23e-21,449,335,55,0.164,0.122,"GO:0050778","BP",5,"positive regulation of immune response",4,NA,4.77293093968142
+"827","lightcyan",TRUE,1.07e-16,395,335,46,0.137,0.116,"GO:0002253","BP",5,"activation of immune response",5,NA,5.30635639536465
+"828","lightcyan",TRUE,6.34e-13,354,335,39,0.116,0.11,"GO:0002757","BP",5,"immune response-activating signal transduction",6,NA,5.4886779521586
+"829","lightcyan",TRUE,0.000257,235,335,21,0.063,0.089,"GO:0002429","BP",5,"immune response-activating cell surface receptor signaling pathway",7,NA,6.30965850422843
+"830","lightcyan",TRUE,4.29e-05,106,335,15,0.045,0.142,"GO:0050851","BP",5,"antigen receptor-mediated signaling pathway",8,NA,6.44877130669115
+"831","lightcyan",TRUE,2.52e-05,29,335,9,0.027,0.31,"GO:0050853","BP",5,"B cell receptor signaling pathway",9,NA,7.35762706007779
+"832","lightcyan",TRUE,2.22e-08,260,335,28,0.084,0.108,"GO:0045089","BP",5,"positive regulation of innate immune response",5,NA,5.61651132366849
+"833","lightcyan",TRUE,1.16e-08,235,335,27,0.081,0.115,"GO:0002218","BP",5,"activation of innate immune response",6,NA,5.96211604385297
+"834","lightcyan",TRUE,2.25e-07,229,335,25,0.075,0.109,"GO:0002758","BP",5,"innate immune response-activating signal transduction",7,NA,6.04829374009403
+"835","lightcyan",TRUE,6.95e-08,150,335,21,0.063,0.14,"GO:0002221","BP",5,"pattern recognition receptor signaling pathway",8,NA,6.06849644741154
+"836","lightcyan",TRUE,2.54e-07,129,335,19,0.057,0.147,"GO:0002224","BP",5,"toll-like receptor signaling pathway",9,NA,6.43395622090601
+"837","lightcyan",TRUE,0.0128,72,335,10,0.03,0.139,"GO:0034134","BP",5,"toll-like receptor 2 signaling pathway",10,NA,8.57402238440228
+"838","lightcyan",TRUE,0.00709,100,335,12,0.036,0.12,"GO:0034142","BP",5,"toll-like receptor 4 signaling pathway",10,NA,7.5624214727238
+"839","lightcyan",TRUE,1.25e-09,151,335,23,0.069,0.152,"GO:0002696","BP",5,"positive regulation of leukocyte activation",4,NA,5.3753492668516
+"840","lightcyan",TRUE,1.35e-09,137,335,22,0.066,0.161,"GO:0051251","BP",5,"positive regulation of lymphocyte activation",5,NA,5.45496689481629
+"841","lightcyan",TRUE,0.0244,47,335,8,0.024,0.17,"GO:0031294","BP",5,"lymphocyte costimulation",6,NA,8.25556865328375
+"842","lightcyan",TRUE,0.00453,27,335,7,0.021,0.259,"GO:0050871","BP",5,"positive regulation of B cell activation",6,NA,7.06994498762601
+"843","lightcyan",TRUE,1.32e-07,110,335,18,0.054,0.164,"GO:0050870","BP",5,"positive regulation of T cell activation",6,NA,5.79365152172044
+"844","lightcyan",TRUE,0.0321,24,335,6,0.018,0.25,"GO:0046635","BP",5,"positive regulation of alpha-beta T cell activation",7,NA,7.0981158645927
+"845","lightcyan",TRUE,0.0244,47,335,8,0.024,0.17,"GO:0031295","BP",5,"T cell costimulation",7,NA,8.25556865328375
+"846","lightcyan",TRUE,3.08e-07,88,335,16,0.048,0.182,"GO:0070663","BP",5,"regulation of leukocyte proliferation",1,NA,5.77066200349575
+"847","lightcyan",TRUE,1.54e-06,84,335,15,0.045,0.179,"GO:0032944","BP",5,"regulation of mononuclear cell proliferation",2,NA,5.80927683962353
+"848","lightcyan",TRUE,1.29e-06,83,335,15,0.045,0.181,"GO:0050670","BP",5,"regulation of lymphocyte proliferation",3,NA,5.8412795707097
+"849","lightcyan",TRUE,0.00592,28,335,7,0.021,0.25,"GO:0030888","BP",5,"regulation of B cell proliferation",4,NA,7.18772802328239
+"850","lightcyan",TRUE,0.0111,56,335,9,0.027,0.161,"GO:0042129","BP",5,"regulation of T cell proliferation",4,NA,6.25901477140968
+"851","lightcyan",TRUE,0.000162,58,335,11,0.033,0.19,"GO:0070665","BP",5,"positive regulation of leukocyte proliferation",2,NA,6.2108126695918
+"852","lightcyan",TRUE,0.00117,56,335,10,0.03,0.179,"GO:0032946","BP",5,"positive regulation of mononuclear cell proliferation",3,NA,6.23462331828552
+"853","lightcyan",TRUE,0.000982,55,335,10,0.03,0.182,"GO:0050671","BP",5,"positive regulation of lymphocyte proliferation",4,NA,6.27143729140824
+"854","lightcyan",TRUE,0.00366,37,335,8,0.024,0.216,"GO:0042102","BP",5,"positive regulation of T cell proliferation",5,NA,6.70222020750069
+"855","lightcyan",TRUE,0.0146,1746,335,68,0.203,0.039,"GO:0010604","BP",5,"positive regulation of macromolecule metabolic process",1,NA,2.70014557952169
+"856","lightcyan",TRUE,0.0244,47,335,8,0.024,0.17,"GO:0042107","BP",5,"cytokine metabolic process",1,NA,6.18755580742753
+"857","lightcyan",TRUE,0.0244,47,335,8,0.024,0.17,"GO:0042089","BP",5,"cytokine biosynthetic process",2,NA,6.19911662982861
+"858","lightcyan",TRUE,0.0211,1125,335,49,0.146,0.044,"GO:0048513","BP",5,"organ development",1,NA,2.64078299637528
+"859","lightcyan",TRUE,5.49e-10,295,335,32,0.096,0.108,"GO:0048534","BP",5,"hematopoietic or lymphoid organ development",2,NA,4.41905320036375
+"860","lightcyan",TRUE,1.02e-09,283,335,31,0.093,0.11,"GO:0030097","BP",5,"hemopoiesis",3,NA,4.4817633286712
+"861","lightcyan",TRUE,0.000105,147,335,17,0.051,0.116,"GO:0030099","BP",5,"myeloid cell differentiation",4,NA,5.21538461715892
+"862","lightcyan",TRUE,1.97e-10,183,335,26,0.078,0.142,"GO:0002521","BP",5,"leukocyte differentiation",4,NA,5.00448968792091
+"863","lightcyan",TRUE,0.000201,87,335,13,0.039,0.149,"GO:0002573","BP",5,"myeloid leukocyte differentiation",5,NA,5.90853179771887
+"864","lightcyan",TRUE,0.0373,15,335,5,0.015,0.333,"GO:0030851","BP",5,"granulocyte differentiation",6,NA,7.5624214727238
+"865","lightcyan",TRUE,0.000186,135,335,16,0.048,0.119,"GO:1903706","BP",5,"regulation of hemopoiesis",4,NA,5.246292154622
+"866","lightcyan",TRUE,0.00256,91,335,12,0.036,0.132,"GO:1902105","BP",5,"regulation of leukocyte differentiation",5,NA,5.68365062650612
+"867","lightcyan",TRUE,0.0108,1003,335,46,0.137,0.046,"GO:0051174","BP",5,"regulation of phosphorus metabolic process",1,NA,3.28449352388732
+"868","lightcyan",TRUE,0.00786,991,335,46,0.137,0.046,"GO:0019220","BP",5,"regulation of phosphate metabolic process",2,NA,3.2863868662011
+"869","lightcyan",TRUE,0.00045,1585,335,68,0.203,0.043,"GO:0051246","BP",5,"regulation of protein metabolic process",1,NA,3.0104602905214
+"870","lightcyan",TRUE,0.00221,946,335,46,0.137,0.049,"GO:0051247","BP",5,"positive regulation of protein metabolic process",2,NA,3.56589022052414
+"871","lightcyan",TRUE,0.0414,25,335,6,0.018,0.24,"GO:0042108","BP",5,"positive regulation of cytokine biosynthetic process",3,NA,6.64613074084965
+"872","lightcyan",TRUE,0.00173,1477,335,63,0.188,0.043,"GO:0032268","BP",5,"regulation of cellular protein metabolic process",2,NA,3.14193927769125
+"873","lightcyan",TRUE,0.0106,1869,335,72,0.215,0.039,"GO:0031325","BP",5,"positive regulation of cellular metabolic process",1,NA,2.60467564254792
+"874","lightcyan",TRUE,0.00322,635,335,35,0.104,0.055,"GO:0010562","BP",5,"positive regulation of phosphorus metabolic process",2,NA,3.74371064443731
+"875","lightcyan",TRUE,0.00322,635,335,35,0.104,0.055,"GO:0045937","BP",5,"positive regulation of phosphate metabolic process",3,NA,3.74371064443731
+"876","lightcyan",TRUE,0.0139,888,335,42,0.125,0.047,"GO:0032270","BP",5,"positive regulation of cellular protein metabolic process",2,NA,3.68179532135633
+"877","lightcyan",TRUE,0.00267,832,335,42,0.125,0.05,"GO:0042325","BP",5,"regulation of phosphorylation",1,NA,3.44857141587744
+"878","lightcyan",TRUE,0.0192,1057,335,47,0.14,0.044,"GO:0006468","BP",5,"protein phosphorylation",1,NA,3.31133219549739
+"879","lightcyan",TRUE,0.000464,779,335,42,0.125,0.054,"GO:0001932","BP",5,"regulation of protein phosphorylation",2,NA,3.80333775993662
+"880","lightcyan",TRUE,0.0127,124,335,13,0.039,0.105,"GO:0050730","BP",5,"regulation of peptidyl-tyrosine phosphorylation",3,NA,5.40119049803549
+"881","lightcyan",TRUE,0.00457,561,335,32,0.096,0.057,"GO:0042327","BP",5,"positive regulation of phosphorylation",1,NA,3.86449218308995
+"882","lightcyan",TRUE,0.0061,82,335,11,0.033,0.134,"GO:0045637","BP",5,"regulation of myeloid cell differentiation",1,NA,5.83318236047708
+"883","lightcyan",TRUE,0.00178,537,335,32,0.096,0.06,"GO:0001934","BP",5,"positive regulation of protein phosphorylation",1,NA,4.2125173854492
+"884","lightcyan",TRUE,0.0433,8,335,4,0.012,0.5,"GO:0002480","BP",17,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent",1,NA,Inf
+"885","lightcyan",TRUE,0.00327,5,335,4,0.012,0.8,"GO:0002291","BP",21,"T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell",1,NA,9.04402601364802
+"886","lightcyan",TRUE,5.43e-06,12,335,7,0.021,0.583,"GO:0042611","CC",2,"MHC protein complex",1,NA,7.18370576116669
+"887","lightcyan",TRUE,0.00175,9,335,5,0.015,0.556,"GO:0042613","CC",2,"MHC class II protein complex",2,NA,7.61114977599363
+"888","lightcyan",TRUE,0.00107,372,335,26,0.078,0.07,"GO:0005773","CC",4,"vacuole",1,NA,4.49025435948564
+"889","lightcyan",TRUE,0.02,259,335,19,0.057,0.073,"GO:0044437","CC",4,"vacuolar part",2,NA,5.14871598205769
+"890","lightcyan",TRUE,0.000332,327,335,25,0.075,0.076,"GO:0000323","CC",4,"lytic vacuole",2,NA,4.62884052277178
+"891","lightcyan",TRUE,0.000332,327,335,25,0.075,0.076,"GO:0005764","CC",4,"lysosome",3,NA,4.62884052277178
+"892","lightcyan",TRUE,0.000132,11021,335,291,0.869,0.026,"GO:0005575","CC",6,"cellular_component",1,NA,0
+"893","lightcyan",TRUE,3.98e-08,2830,335,116,0.346,0.041,"GO:0005576","CC",6,"extracellular region",2,NA,2.05329264294009
+"894","lightcyan",TRUE,2.62e-07,4898,335,168,0.501,0.034,"GO:0016020","CC",6,"membrane",2,NA,1.71601259251274
+"895","lightcyan",TRUE,3.01e-07,2565,335,106,0.316,0.041,"GO:0044425","CC",6,"membrane part",2,NA,2.67907680440048
+"896","lightcyan",TRUE,9.63e-05,222,335,21,0.063,0.095,"GO:0098552","CC",6,"side of membrane",3,NA,5.48291807014436
+"897","lightcyan",TRUE,0.00114,1625,335,68,0.203,0.042,"GO:0031224","CC",6,"intrinsic component of membrane",3,NA,3.57986334973867
+"898","lightcyan",TRUE,0.00303,1568,335,65,0.194,0.041,"GO:0016021","CC",6,"integral component of membrane",4,NA,3.65097172867844
+"899","lightcyan",TRUE,5.52e-08,2668,335,111,0.331,0.042,"GO:0044421","CC",6,"extracellular region part",2,NA,2.08013464532657
+"900","lightcyan",TRUE,1.1e-07,2216,335,97,0.29,0.044,"GO:0043230","CC",6,"extracellular organelle",3,NA,2.39621401838465
+"901","lightcyan",TRUE,1.87e-07,2203,335,96,0.287,0.044,"GO:0065010","CC",6,"extracellular membrane-bounded organelle",4,NA,2.39621401838465
+"902","lightcyan",TRUE,3.33e-05,709,335,42,0.125,0.059,"GO:0005615","CC",6,"extracellular space",3,NA,3.52349420192233
+"903","lightcyan",TRUE,2.55e-10,2596,335,115,0.343,0.044,"GO:0031982","CC",6,"vesicle",1,NA,2.18561255943488
+"904","lightcyan",TRUE,1.1e-07,2216,335,97,0.29,0.044,"GO:1903561","CC",6,"extracellular vesicle",2,NA,2.39693891874259
+"905","lightcyan",TRUE,3.61e-09,376,335,35,0.104,0.093,"GO:0009986","CC",6,"cell surface",1,NA,4.24155773374681
+"906","lightcyan",TRUE,0.0137,21,335,6,0.018,0.286,"GO:0098576","CC",6,"lumenal side of membrane",1,NA,8.52744050786779
+"907","lightcyan",TRUE,0.0137,21,335,6,0.018,0.286,"GO:0098553","CC",6,"lumenal side of endoplasmic reticulum membrane",2,NA,8.52744050786779
+"908","lightcyan",TRUE,0.0137,21,335,6,0.018,0.286,"GO:0071556","CC",6,"integral component of lumenal side of endoplasmic reticulum membrane",3,NA,8.52744050786779
+"909","lightcyan",TRUE,5.42e-14,2845,335,131,0.391,0.046,"GO:0071944","CC",6,"cell periphery",1,NA,2.51128334816943
+"910","lightcyan",TRUE,7.96e-10,2536,335,112,0.334,0.044,"GO:0031988","CC",6,"membrane-bounded vesicle",1,NA,2.24642064392634
+"911","lightcyan",TRUE,0.0386,224,335,17,0.051,0.076,"GO:0012506","CC",6,"vesicle membrane",2,NA,5.69422716381157
+"912","lightcyan",TRUE,1.87e-07,2203,335,96,0.287,0.044,"GO:0070062","CC",6,"extracellular exosome",2,NA,2.39730156607205
+"913","lightcyan",TRUE,4.13e-14,2802,335,130,0.388,0.046,"GO:0005886","CC",6,"plasma membrane",1,NA,2.55405507415971
+"914","lightcyan",TRUE,3.3e-08,1500,335,76,0.227,0.051,"GO:0044459","CC",6,"plasma membrane part",2,NA,3.2682105300278
+"915","lightcyan",TRUE,3.08e-05,1078,335,55,0.164,0.051,"GO:0031226","CC",6,"intrinsic component of plasma membrane",2,NA,4.25309188699209
+"916","lightcyan",TRUE,0.00368,78,335,11,0.033,0.141,"GO:0009897","CC",6,"external side of plasma membrane",2,NA,5.93717334242196
+"917","lightcyan",TRUE,0.00082,1034,335,50,0.149,0.048,"GO:0005887","CC",6,"integral component of plasma membrane",2,NA,4.3556206334774
+"918","lightcyan",TRUE,4.63e-05,558,335,36,0.107,0.065,"GO:0031410","CC",6,"cytoplasmic vesicle",1,NA,4.08871852951736
+"919","lightcyan",TRUE,6.17e-05,300,335,25,0.075,0.083,"GO:0044433","CC",6,"cytoplasmic vesicle part",2,NA,5.63706874997162
+"920","lightcyan",TRUE,0.000591,511,335,32,0.096,0.063,"GO:0016023","CC",6,"cytoplasmic membrane-bounded vesicle",2,NA,4.24155773374681
+"921","lightcyan",TRUE,0.000402,161,335,17,0.051,0.106,"GO:0030139","CC",6,"endocytic vesicle",3,NA,5.98846663680951
+"922","lightcyan",TRUE,0.000382,50,335,10,0.03,0.2,"GO:0045335","CC",6,"phagocytic vesicle",4,NA,6.76385191560643
+"923","lightcyan",TRUE,0.0226,215,335,17,0.051,0.079,"GO:0030659","CC",6,"cytoplasmic vesicle membrane",3,NA,5.78660048394259
+"924","lightcyan",TRUE,0.00288,92,335,12,0.036,0.13,"GO:0030666","CC",6,"endocytic vesicle membrane",4,NA,8.23975843541601
+"925","lightcyan",TRUE,0.0137,21,335,6,0.018,0.286,"GO:0030670","CC",6,"phagocytic vesicle membrane",5,NA,9.22058768842773
+"926","lightcyan",TRUE,0.0294,3,335,3,0.009,1,"GO:0070022","CC",6,"transforming growth factor beta receptor homodimeric complex",1,NA,10.3191999770958
+"927","lightcyan",TRUE,0.00979,30,335,7,0.021,0.233,"GO:0030134","CC",11,"ER to Golgi transport vesicle",1,NA,8.52744050786779
+"928","lightcyan",TRUE,0.00255,25,335,7,0.021,0.28,"GO:0012507","CC",11,"ER to Golgi transport vesicle membrane",1,NA,10.3191999770958
+"929","lightcyan",TRUE,1.54e-10,859,335,58,0.173,0.068,"GO:0060089","MF",9,"molecular transducer activity",1,NA,3.8180703942764
+"930","lightcyan",TRUE,4.16e-11,687,335,52,0.155,0.076,"GO:0004872","MF",9,"receptor activity",2,NA,3.99594217477374
+"931","lightcyan",TRUE,1.04e-08,740,335,50,0.149,0.068,"GO:0004871","MF",9,"signal transducer activity",2,NA,3.93050753887352
+"932","lightcyan",TRUE,7.41e-09,563,335,43,0.128,0.076,"GO:0038023","MF",9,"signaling receptor activity",3,NA,4.13181823435752
+"933","lightcyan",TRUE,3.73e-07,513,335,38,0.113,0.074,"GO:0004888","MF",9,"transmembrane signaling receptor activity",4,NA,4.27275457498862
+"934","lightcyan",TRUE,0.0206,810,335,39,0.116,0.048,"GO:0005102","MF",23,"receptor binding",1,NA,3.24700363458538
+"935","lightcyan",TRUE,0.00492,51,335,9,0.027,0.176,"GO:0019955","MF",22,"cytokine binding",1,NA,5.8424521587732
+"936","lightcyan",TRUE,9.39e-06,45,335,11,0.033,0.244,"GO:0003823","MF",12,"antigen binding",1,NA,6.10872013672117
+"937","lightcyan",TRUE,0.00543,484,335,29,0.087,0.06,"GO:0097367","MF",8,"carbohydrate derivative binding",1,NA,3.88180877820491
+"938","lightcyan",TRUE,0.0111,56,335,9,0.027,0.161,"GO:0001948","MF",8,"glycoprotein binding",1,NA,6.17892439539442
+"939","lightcyan",TRUE,0.00962,6,335,4,0.012,0.667,"GO:0005024","MF",20,"transforming growth factor beta-activated receptor activity",1,NA,7.78836230782852
+"940","lightcyan",TRUE,0.0433,8,335,4,0.012,0.5,"GO:0045028","MF",7,"G-protein coupled purinergic nucleotide receptor activity",1,NA,9.08764529195878
+"941","lightgreen",TRUE,0.00132,3511,302,110,0.364,0.031,"GO:0051179","BP",8,"localization",1,NA,2.05727472843938
+"942","lightgreen",TRUE,0.0126,2908,302,92,0.305,0.032,"GO:0051234","BP",8,"establishment of localization",2,NA,2.40912987822602
+"943","lightgreen",TRUE,0.0173,2847,302,90,0.298,0.032,"GO:0006810","BP",8,"transport",3,NA,2.45785435879334
+"944","lightgreen",TRUE,0.00126,2720,302,91,0.301,0.033,"GO:1902578","BP",8,"single-organism localization",1,NA,2.48980774991368
+"945","lightgreen",TRUE,0.019,2606,302,84,0.278,0.032,"GO:0044765","BP",8,"single-organism transport",2,NA,2.58819871718438
+"946","lightgreen",TRUE,0.00115,131,302,14,0.046,0.107,"GO:0006836","BP",8,"neurotransmitter transport",3,NA,6.72163829335779
+"947","lightgreen",TRUE,0.0113,137,302,13,0.043,0.095,"GO:0001505","BP",8,"regulation of neurotransmitter levels",1,NA,6.5930209155357
+"948","lightgreen",TRUE,0.00467,147,302,14,0.046,0.095,"GO:0051648","BP",8,"vesicle localization",1,NA,6.04829374009403
+"949","lightgreen",TRUE,0.00328,86,302,11,0.036,0.128,"GO:0097479","BP",8,"synaptic vesicle localization",2,NA,6.68317201252999
+"950","lightgreen",TRUE,0.00308,142,302,14,0.046,0.099,"GO:0051650","BP",8,"establishment of vesicle localization",2,NA,6.15365425575185
+"951","lightgreen",TRUE,0.00258,84,302,11,0.036,0.131,"GO:0097480","BP",8,"establishment of synaptic vesicle localization",3,NA,6.76164362797149
+"952","lightgreen",TRUE,0.00258,84,302,11,0.036,0.131,"GO:0048489","BP",8,"synaptic vesicle transport",4,NA,6.76164362797149
+"953","lightgreen",TRUE,5.9e-08,780,302,47,0.156,0.06,"GO:0007267","BP",8,"cell-cell signaling",1,NA,4.51789903500038
+"954","lightgreen",TRUE,2.17e-13,488,302,44,0.146,0.09,"GO:0007268","BP",8,"synaptic transmission",2,NA,5.246292154622
+"955","lightgreen",TRUE,0.00114,112,302,13,0.043,0.116,"GO:0007269","BP",8,"neurotransmitter secretion",3,NA,7.04254601343789
+"956","lightgreen",TRUE,0.00671,111,302,12,0.04,0.108,"GO:0050804","BP",8,"modulation of synaptic transmission",1,NA,5.85767338048538
+"957","lightgreen",TRUE,0.00502,57,302,9,0.03,0.158,"GO:0016079","BP",8,"synaptic vesicle exocytosis",1,NA,7.8202505820259
+"958","lightgreen",TRUE,0.00461,784,302,37,0.123,0.047,"GO:0030030","BP",3,"cell projection organization",1,NA,3.99802357571447
+"959","lightgreen",TRUE,0.000788,1119,302,49,0.162,0.044,"GO:0007399","BP",3,"nervous system development",1,NA,3.3992860796256
+"960","lightgreen",TRUE,5.97e-05,777,302,41,0.136,0.053,"GO:0022008","BP",3,"neurogenesis",2,NA,3.90353273229355
+"961","lightgreen",TRUE,2.29e-05,751,302,41,0.136,0.055,"GO:0048699","BP",3,"generation of neurons",3,NA,4.00189205249239
+"962","lightgreen",TRUE,2.74e-06,698,302,41,0.136,0.059,"GO:0030182","BP",3,"neuron differentiation",4,NA,4.18111763158122
+"963","lightgreen",TRUE,0.00371,1008,302,44,0.146,0.044,"GO:0048468","BP",3,"cell development",1,NA,3.59728864198171
+"964","lightgreen",TRUE,4.1e-05,591,302,35,0.116,0.059,"GO:0048666","BP",3,"neuron development",2,NA,4.45498520958981
+"965","lightgreen",TRUE,2.89e-05,555,302,34,0.113,0.061,"GO:0031175","BP",3,"neuron projection development",3,NA,4.6013747571577
+"966","lightgreen",TRUE,0.00563,397,302,24,0.079,0.06,"GO:0061564","BP",3,"axon development",4,NA,5.57205956109765
+"967","lightgreen",TRUE,0.00211,458,302,27,0.089,0.059,"GO:0048812","BP",3,"neuron projection morphogenesis",1,NA,5.15220571553739
+"968","lightgreen",TRUE,0.0127,388,302,23,0.076,0.059,"GO:0007409","BP",3,"axonogenesis",1,NA,5.69763686848086
+"969","lightgreen",TRUE,0.00206,27,302,7,0.023,0.259,"GO:0014047","BP",11,"glutamate secretion",1,NA,9.55485163741401
+"970","lightgreen",TRUE,0.016,422,302,24,0.079,0.057,"GO:0098655","BP",6,"cation transmembrane transport",1,NA,4.74266728204159
+"971","lightgreen",TRUE,0.0283,379,302,22,0.073,0.058,"GO:0098662","BP",6,"inorganic cation transmembrane transport",2,NA,4.80413914613526
+"972","lightgreen",TRUE,0.0303,54,302,8,0.026,0.148,"GO:0007611","BP",7,"learning or memory",1,NA,6.51032919969058
+"973","lightgreen",TRUE,7.76e-06,279,302,24,0.079,0.086,"GO:0045202","CC",4,"synapse",1,NA,4.91652259522356
+"974","lightgreen",TRUE,3.69e-05,192,302,19,0.063,0.099,"GO:0044456","CC",4,"synapse part",1,NA,5.37044008671767
+"975","lightgreen",TRUE,3.05e-09,463,302,37,0.123,0.08,"GO:0097458","CC",2,"neuron part",1,NA,3.96135771058774
+"976","lightgreen",TRUE,0.000534,183,302,17,0.056,0.093,"GO:0036477","CC",2,"somatodendritic compartment",2,NA,4.85961446295168
+"977","lightgreen",TRUE,9.91e-08,330,302,29,0.096,0.088,"GO:0043005","CC",2,"neuron projection",1,NA,4.30060676259961
+"978","lightgreen",TRUE,0.000127,110,302,14,0.046,0.127,"GO:0030424","CC",2,"axon",2,NA,5.39194629193864
+"979","lightgreen",TRUE,0.000268,135,302,15,0.05,0.111,"GO:0030425","CC",2,"dendrite",2,NA,5.32876739031711
+"980","lightgreen",TRUE,0.00431,56,302,9,0.03,0.161,"GO:0019905","MF",5,"syntaxin binding",1,NA,6.65989705601073
+"981","lightgreen",TRUE,0.00187,10,302,5,0.017,0.5,"GO:0017075","MF",5,"syntaxin-1 binding",2,NA,7.88367248763284
+"982","lightgreen",TRUE,0.0341,198,302,15,0.05,0.076,"GO:0022836","MF",10,"gated channel activity",1,NA,4.72242577560128
+"983","lightgreen",TRUE,0.00671,111,302,12,0.04,0.108,"GO:0022832","MF",10,"voltage-gated channel activity",2,NA,5.35794384332459
+"984","lightgreen",TRUE,0.00671,111,302,12,0.04,0.108,"GO:0005244","MF",10,"voltage-gated ion channel activity",3,NA,5.35794384332459
+"985","lightgreen",TRUE,0.00371,105,302,12,0.04,0.114,"GO:0022843","MF",10,"voltage-gated cation channel activity",4,NA,5.41557295616122
+"986","lightgreen",TRUE,0.00782,60,302,9,0.03,0.15,"GO:0005249","MF",10,"voltage-gated potassium channel activity",1,NA,6.02737449726722
+"987","lightgreen",TRUE,0.00285,355,302,23,0.076,0.065,"GO:0008324","MF",1,"cation transmembrane transporter activity",1,NA,4.33118565842446
+"988","lightgreen",TRUE,0.0486,281,302,18,0.06,0.064,"GO:0022890","MF",1,"inorganic cation transmembrane transporter activity",2,NA,4.55863646693625
+"989","lightgreen",TRUE,0.0195,189,302,15,0.05,0.079,"GO:0015077","MF",1,"monovalent inorganic cation transmembrane transporter activity",3,NA,5.02147160670337
+"990","lightgreen",TRUE,0.00697,244,302,18,0.06,0.074,"GO:0046873","MF",1,"metal ion transmembrane transporter activity",3,NA,4.65682849311546
+"991","lightgreen",TRUE,0.00426,42,302,8,0.026,0.19,"GO:0030276","MF",9,"clathrin binding",1,NA,7.09521512726857
+"992","sienna3",TRUE,0.00619,1005,327,46,0.141,0.046,"GO:0040011","BP",1,"locomotion",1,NA,3.55261201713807
+"993","sienna3",TRUE,0.00529,1160,327,51,0.156,0.044,"GO:0006928","BP",2,"movement of cell or subcellular component",1,NA,3.55757070498459
+"994","steelblue",TRUE,0.0493,2646,326,89,0.273,0.034,"GO:0016070","BP",2,"RNA metabolic process",1,NA,2.43845749332054
+"995","steelblue",TRUE,0.0289,24,326,6,0.018,0.25,"GO:0050909","BP",4,"sensory perception of taste",1,NA,6.8468014363118
+"996","steelblue",TRUE,0.0123,21,326,6,0.018,0.286,"GO:0050912","BP",4,"detection of chemical stimulus involved in sensory perception of taste",1,NA,7.15695636461564
+"997","steelblue",TRUE,0.0136,3456,326,112,0.344,0.032,"GO:0046483","BP",1,"heterocycle metabolic process",1,NA,2.13148221793408
+"998","steelblue",TRUE,0.00801,3459,326,113,0.347,0.033,"GO:0006725","BP",1,"cellular aromatic compound metabolic process",1,NA,2.12790581833425
+"999","steelblue",TRUE,0.00283,3350,326,112,0.344,0.033,"GO:0006139","BP",1,"nucleobase-containing compound metabolic process",1,NA,2.15158743877777
+"1000","steelblue",TRUE,0.000249,12,326,6,0.018,0.5,"GO:0008527","MF",3,"taste receptor activity",1,NA,6.89042071462256
+"1001","steelblue",TRUE,0.00317,10,326,5,0.015,0.5,"GO:0033038","MF",3,"bitter taste receptor activity",2,NA,7.29588582273072
+"1002","green",TRUE,0.0148,227,416,20,0.048,0.088,"GO:0003012","BP",1,"muscle system process",1,NA,5.36015910135762
+"1003","white",TRUE,0.0143,264,485,24,0.049,0.091,"GO:0034660","BP",4,"ncRNA metabolic process",1,NA,5.3753492668516
+"1004","white",TRUE,0.015,118,485,15,0.031,0.127,"GO:0042254","BP",2,"ribosome biogenesis",1,NA,6.08911573461428
+"1005","white",TRUE,0.000355,3264,485,156,0.322,0.048,"GO:0031974","CC",3,"membrane-enclosed lumen",1,NA,2.11753978628716
+"1006","white",TRUE,0.00158,5353,485,228,0.47,0.043,"GO:0044422","CC",3,"organelle part",1,NA,1.39654167757144
+"1007","white",TRUE,0.000907,3231,485,153,0.315,0.047,"GO:0043233","CC",3,"organelle lumen",2,NA,2.12773692576892
+"1008","white",TRUE,0.00739,7579,485,299,0.616,0.039,"GO:0043227","CC",3,"membrane-bounded organelle",1,NA,0.734472452582356
+"1009","white",TRUE,0.00954,8662,485,333,0.687,0.038,"GO:0005622","CC",3,"intracellular",1,NA,0.458202476180666
+"1010","white",TRUE,0.00339,8495,485,330,0.68,0.039,"GO:0044424","CC",3,"intracellular part",2,NA,0.465375469578815
+"1011","white",TRUE,0.00252,7076,485,285,0.588,0.04,"GO:0043229","CC",3,"intracellular organelle",1,NA,0.76882230233395
+"1012","white",TRUE,0.000639,5240,485,226,0.466,0.043,"GO:0044446","CC",3,"intracellular organelle part",2,NA,1.42975381177755
+"1013","white",TRUE,0.000375,3187,485,153,0.315,0.048,"GO:0070013","CC",3,"intracellular organelle lumen",3,NA,2.12801397245305
+"1014","white",TRUE,0.00301,2920,485,139,0.287,0.048,"GO:0044428","CC",3,"nuclear part",3,NA,1.96995217652905
+"1015","white",TRUE,0.0268,2718,485,127,0.262,0.047,"GO:0031981","CC",3,"nuclear lumen",4,NA,2.17539200032436
+"1016","white",TRUE,0.000161,6479,485,271,0.559,0.042,"GO:0043231","CC",3,"intracellular membrane-bounded organelle",2,NA,0.948868868810718
+"1017","white",TRUE,0.0322,882,485,53,0.109,0.06,"GO:0005739","CC",3,"mitochondrion",1,NA,3.29011241294618
+"1018","white",TRUE,0.00316,541,485,40,0.082,0.074,"GO:0044429","CC",3,"mitochondrial part",2,NA,4.26476063082647
+"1019","white",TRUE,0.00195,43,485,10,0.021,0.233,"GO:0044452","CC",3,"nucleolar part",1,NA,7.68014264748058
+"1020","white",TRUE,0.0344,1139,485,64,0.132,0.056,"GO:0003723","MF",1,"RNA binding",1,NA,2.84477372826373
+"1021","purple",TRUE,0.000317,441,500,38,0.076,0.086,"GO:0044419","BP",3,"interspecies interaction between organisms",1,NA,4.83338099572975
+"1022","purple",TRUE,0.000317,441,500,38,0.076,0.086,"GO:0044403","BP",3,"symbiosis, encompassing mutualism through parasitism",2,NA,4.83338099572975
+"1023","purple",TRUE,0.00484,416,500,34,0.068,0.082,"GO:0044764","BP",3,"multi-organism cellular process",1,NA,4.83338099572975
+"1024","purple",TRUE,0.00212,401,500,34,0.068,0.085,"GO:0016032","BP",3,"viral process",2,NA,4.8977217124952
+"1025","purple",TRUE,0.00464,434,500,35,0.07,0.081,"GO:0043632","BP",10,"modification-dependent macromolecule catabolic process",1,NA,4.86350375518486
+"1026","purple",TRUE,0.0448,6333,500,261,0.522,0.041,"GO:0044238","BP",10,"primary metabolic process",1,NA,1.35036207402462
+"1027","purple",TRUE,0.042,3463,500,158,0.316,0.046,"GO:0019538","BP",10,"protein metabolic process",2,NA,2.18252411918334
+"1028","purple",TRUE,0.0167,2500,500,123,0.246,0.049,"GO:0043412","BP",10,"macromolecule modification",1,NA,2.51841001747055
+"1029","purple",TRUE,0.0235,2416,500,119,0.238,0.049,"GO:0036211","BP",10,"protein modification process",2,NA,2.55512507989306
+"1030","purple",TRUE,0.00604,3194,500,152,0.304,0.048,"GO:0044267","BP",10,"cellular protein metabolic process",1,NA,2.30350665404179
+"1031","purple",TRUE,0.0235,2416,500,119,0.238,0.049,"GO:0006464","BP",10,"cellular protein modification process",2,NA,2.55512507989306
+"1032","purple",TRUE,0.00503,632,500,45,0.09,0.071,"GO:0070647","BP",10,"protein modification by small protein conjugation or removal",3,NA,3.95642967841563
+"1033","purple",TRUE,0.0246,548,500,39,0.078,0.071,"GO:0032446","BP",10,"protein modification by small protein conjugation",4,NA,4.17649156319243
+"1034","purple",TRUE,0.0145,576,500,41,0.082,0.071,"GO:0030163","BP",10,"protein catabolic process",1,NA,4.42298247850364
+"1035","purple",TRUE,0.0116,491,500,37,0.074,0.075,"GO:0044257","BP",10,"cellular protein catabolic process",2,NA,4.63730676638376
+"1036","purple",TRUE,0.0103,469,500,36,0.072,0.077,"GO:0051603","BP",10,"proteolysis involved in cellular protein catabolic process",1,NA,4.70542893690147
+"1037","purple",TRUE,0.00338,428,500,35,0.07,0.082,"GO:0019941","BP",10,"modification-dependent protein catabolic process",2,NA,4.87581160285946
+"1038","purple",TRUE,0.00244,422,500,35,0.07,0.083,"GO:0006511","BP",10,"ubiquitin-dependent protein catabolic process",3,NA,4.88514293028834
+"1039","purple",TRUE,0.0338,136,500,16,0.032,0.118,"GO:0042787","BP",10,"protein ubiquitination involved in ubiquitin-dependent protein catabolic process",1,NA,6.68317201252999
+"1040","purple",TRUE,4.68e-06,1338,500,87,0.174,0.065,"GO:0033554","BP",5,"cellular response to stress",1,NA,3.32044091169564
+"1041","purple",TRUE,0.02,523,500,38,0.076,0.073,"GO:0006974","BP",5,"cellular response to DNA damage stimulus",2,NA,4.03205827431798
+"1042","purple",TRUE,0.0445,124,500,15,0.03,0.121,"GO:0000077","BP",5,"DNA damage checkpoint",3,NA,6.24674467881786
+"1043","purple",TRUE,0.05,58,500,10,0.02,0.172,"GO:1902400","BP",11,"intracellular signal transduction involved in G1 DNA damage checkpoint",1,NA,8.25556865328375
+"1044","purple",TRUE,0.05,58,500,10,0.02,0.172,"GO:0072431","BP",11,"signal transduction involved in mitotic G1 DNA damage checkpoint",1,NA,8.25556865328375
+"1045","purple",TRUE,0.00783,3577,500,166,0.332,0.046,"GO:0044710","BP",8,"single-organism metabolic process",1,NA,2.28779154230712
+"1046","purple",TRUE,0.0374,3912,500,175,0.35,0.045,"GO:0071840","BP",9,"cellular component organization or biogenesis",1,NA,1.96957055877488
+"1047","purple",TRUE,0.0217,3851,500,174,0.348,0.045,"GO:0016043","BP",9,"cellular component organization",1,NA,1.9854398449633
+"1048","purple",TRUE,0.0218,1039,500,62,0.124,0.06,"GO:0007049","BP",2,"cell cycle",1,NA,3.61030401009378
+"1049","purple",TRUE,0.000187,678,500,51,0.102,0.075,"GO:0000278","BP",2,"mitotic cell cycle",2,NA,4.38816271334441
+"1050","purple",TRUE,0.0051,841,500,55,0.11,0.065,"GO:0022402","BP",2,"cell cycle process",1,NA,3.80227899858837
+"1051","purple",TRUE,6.55e-05,542,500,45,0.09,0.083,"GO:1903047","BP",2,"mitotic cell cycle process",2,NA,4.53097111656773
+"1052","purple",TRUE,0.00785,6529,500,272,0.544,0.042,"GO:0044237","BP",6,"cellular metabolic process",1,NA,1.25366088916061
+"1053","purple",TRUE,0.00885,59,500,11,0.022,0.186,"GO:0033238","BP",6,"regulation of cellular amine metabolic process",1,NA,7.65773165252813
+"1054","purple",TRUE,0.0278,149,500,17,0.034,0.114,"GO:0042180","BP",6,"cellular ketone metabolic process",1,NA,5.51180036957946
+"1055","purple",TRUE,0.000647,114,500,17,0.034,0.149,"GO:0010565","BP",6,"regulation of cellular ketone metabolic process",1,NA,6.00907302694074
+"1056","purple",TRUE,0.00125,49,500,11,0.022,0.224,"GO:0006521","BP",6,"regulation of cellular amino acid metabolic process",1,NA,8.4562393487459
+"1057","purple",TRUE,1.25e-05,2930,500,153,0.306,0.052,"GO:0032991","CC",7,"macromolecular complex",1,NA,1.98185141259867
+"1058","purple",TRUE,2.06e-05,2479,500,134,0.268,0.054,"GO:0043234","CC",7,"protein complex",2,NA,2.23278970177206
+"1059","purple",TRUE,0.000273,569,500,45,0.09,0.079,"GO:0031975","CC",1,"envelope",1,NA,3.99484101471453
+"1060","purple",TRUE,0.000435,8097,500,331,0.662,0.041,"GO:0043226","CC",1,"organelle",1,NA,0.565605514134331
+"1061","purple",TRUE,0.000253,7579,500,315,0.63,0.042,"GO:0043227","CC",1,"membrane-bounded organelle",2,NA,0.734472452582356
+"1062","purple",TRUE,0.0149,2596,500,127,0.254,0.049,"GO:0031982","CC",1,"vesicle",2,NA,2.18561255943488
+"1063","purple",TRUE,0.00746,2536,500,126,0.252,0.05,"GO:0031988","CC",1,"membrane-bounded vesicle",3,NA,2.24642064392634
+"1064","purple",TRUE,2.32e-05,5353,500,243,0.486,0.045,"GO:0044422","CC",1,"organelle part",1,NA,1.39654167757144
+"1065","purple",TRUE,0.00618,1642,500,90,0.18,0.055,"GO:0031090","CC",1,"organelle membrane",2,NA,3.18430912552996
+"1066","purple",TRUE,1.14e-06,8662,500,360,0.72,0.042,"GO:0005622","CC",1,"intracellular",1,NA,0.458202476180666
+"1067","purple",TRUE,2.77e-07,8495,500,357,0.714,0.042,"GO:0044424","CC",1,"intracellular part",2,NA,0.465375469578815
+"1068","purple",TRUE,3.27e-08,6627,500,299,0.598,0.045,"GO:0005737","CC",1,"cytoplasm",3,NA,1.19900315497263
+"1069","purple",TRUE,7.65e-09,5278,500,254,0.508,0.048,"GO:0044444","CC",1,"cytoplasmic part",4,NA,1.60446826308079
+"1070","purple",TRUE,2.38e-06,2350,500,132,0.264,0.056,"GO:0005829","CC",1,"cytosol",5,NA,3.70715894226275
+"1071","purple",TRUE,4.13e-06,7076,500,306,0.612,0.043,"GO:0043229","CC",1,"intracellular organelle",3,NA,0.76882230233395
+"1072","purple",TRUE,7.69e-06,5240,500,241,0.482,0.046,"GO:0044446","CC",1,"intracellular organelle part",4,NA,1.42975381177755
+"1073","purple",TRUE,0.000961,2920,500,145,0.29,0.05,"GO:0044428","CC",1,"nuclear part",5,NA,1.96995217652905
+"1074","purple",TRUE,0.0344,2334,500,115,0.23,0.049,"GO:0005654","CC",1,"nucleoplasm",6,NA,2.53472674135937
+"1075","purple",TRUE,0.000273,569,500,45,0.09,0.079,"GO:0031967","CC",1,"organelle envelope",5,NA,3.99843168284526
+"1076","purple",TRUE,0.0211,226,500,22,0.044,0.097,"GO:0005635","CC",1,"nuclear envelope",6,NA,4.77402253261628
+"1077","purple",TRUE,3.48e-06,6479,500,286,0.572,0.044,"GO:0043231","CC",1,"intracellular membrane-bounded organelle",4,NA,0.948868868810718
+"1078","purple",TRUE,0.0209,882,500,55,0.11,0.062,"GO:0005739","CC",1,"mitochondrion",5,NA,3.29011241294618
+"1079","purple",TRUE,0.00162,2216,500,116,0.232,0.052,"GO:0043230","CC",1,"extracellular organelle",1,NA,2.39621401838465
+"1080","purple",TRUE,0.00212,2203,500,115,0.23,0.052,"GO:0065010","CC",1,"extracellular membrane-bounded organelle",2,NA,2.39621401838465
+"1081","purple",TRUE,0.00162,2216,500,116,0.232,0.052,"GO:1903561","CC",1,"extracellular vesicle",2,NA,2.39693891874259
+"1082","purple",TRUE,0.00212,2203,500,115,0.23,0.052,"GO:0070062","CC",1,"extracellular exosome",3,NA,2.39730156607205
+"1083","purple",TRUE,0.0139,7841,500,315,0.63,0.04,"GO:0005515","MF",4,"protein binding",1,NA,0.556417711578738
+"1084","darkolivegreen",TRUE,0.0374,2061,311,71,0.228,0.034,"GO:0097659","BP",2,"nucleic acid-templated transcription",1,NA,2.66288704433819
+"1085","darkolivegreen",TRUE,0.0311,105,311,11,0.035,0.105,"GO:0022843","MF",1,"voltage-gated cation channel activity",1,NA,5.41557295616122
+"1086","royalblue",TRUE,0.0489,6333,369,198,0.537,0.031,"GO:0044238","BP",4,"primary metabolic process",1,NA,1.35036207402462
+"1087","royalblue",TRUE,1.09e-05,8097,369,257,0.696,0.032,"GO:0043226","CC",1,"organelle",1,NA,0.565605514134331
+"1088","royalblue",TRUE,8.43e-06,7579,369,245,0.664,0.032,"GO:0043227","CC",1,"membrane-bounded organelle",2,NA,0.734472452582356
+"1089","royalblue",TRUE,1.59e-06,8662,369,273,0.74,0.032,"GO:0005622","CC",1,"intracellular",1,NA,0.458202476180666
+"1090","royalblue",TRUE,4.27e-07,8495,369,271,0.734,0.032,"GO:0044424","CC",1,"intracellular part",2,NA,0.465375469578815
+"1091","royalblue",TRUE,4e-04,6627,369,215,0.583,0.032,"GO:0005737","CC",1,"cytoplasm",3,NA,1.19900315497263
+"1092","royalblue",TRUE,1.91e-06,7076,369,235,0.637,0.033,"GO:0043229","CC",1,"intracellular organelle",3,NA,0.76882230233395
+"1093","royalblue",TRUE,5.37e-07,6479,369,222,0.602,0.034,"GO:0043231","CC",1,"intracellular membrane-bounded organelle",4,NA,0.948868868810718
+"1094","royalblue",TRUE,0.0381,4007,369,137,0.371,0.034,"GO:0005634","CC",1,"nucleus",5,NA,1.45008311116636
+"1095","royalblue",TRUE,0.00978,2181,369,87,0.236,0.04,"GO:0012505","CC",3,"endomembrane system",1,NA,2.44332081759953
+"1096","royalblue",TRUE,0.00975,10878,369,309,0.837,0.028,"GO:0003674","MF",2,"molecular_function",1,NA,0
