@@ -42,8 +42,8 @@ initDb = function(mandatory=F){
 #'
 #' @examples
 fromIlluminaProbe2GeneSymbol = function(probes){
-  probesdata = read.csv(paste0(system.file("micro19K/", "", package = "CoExp10UKBEC"),
-                                 "annot_19K.csv"),stringsAsFactors=F)
+  probesdata = read.csv(paste0(system.file("", "", package = "CoExpNets"),
+                               "annot_19K.csv"),stringsAsFactors=F)
   return(probesdata$Gene_Symbol[match(probes,probesdata$XtID)])
 }
 
